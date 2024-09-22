@@ -1,0 +1,1329 @@
+,work_year,experience_level,employment_type,job_title,salary_in_usd,remote_ratio,Job Title,min_salary,max_salary,Rating,Company Name,Size
+0,2020.0,MI,FT,Data Scientist,79833.0,0.0,,,,,,
+1,2020.0,SE,FT,Machine Learning Scientist,260000.0,0.0,2024 University Graduate - Data Scientist,83.0,153.0,4.4,"Adobe
+4.4",10000+ Employees
+2,2020.0,SE,FT,Big Data Engineer,109024.0,50.0,Data Scientist – Entry Level 2024,71.0,133.0,3.9,"IBM
+3.9",10000+ Employees
+3,2020.0,MI,FT,Product Data Analyst,20000.0,0.0,Data Scientist 2,94.0,183.0,4.3,"Microsoft
+4.3",10000+ Employees
+4,2020.0,SE,FT,Machine Learning Engineer,150000.0,50.0,Entry Level Data Scientist 2023/2024,48.0,78.0,3.9,"CPChem
+3.9",1001 to 5000 Employees
+5,2020.0,EN,FT,Data Analyst,72000.0,100.0,,,,,,
+6,2020.0,SE,FT,Lead Data Scientist,190000.0,100.0,Senior Data Scientist,141.0,254.0,3.6,"AT&T
+3.6",10000+ Employees
+7,2020.0,MI,FT,Data Scientist,35735.0,50.0,Data Scientist,,,3.4,"Ascension
+3.4",10000+ Employees
+8,2020.0,MI,FT,Business Data Analyst,135000.0,100.0,Data Scientist,102.0,138.0,4.1,"Visa
+4.1",10000+ Employees
+9,2020.0,SE,FT,Lead Data Engineer,125000.0,50.0,Data Scientist- CalAIM,,,3.3,"Heluna Health
+3.3",1001 to 5000 Employees
+10,2020.0,EN,FT,Data Scientist,51321.0,0.0,,,,,,
+11,2020.0,MI,FT,Data Scientist,40481.0,0.0,Data Scientist,88.0,133.0,4.0,"Spalding Consulting, Inc.
+4.0",201 to 500 Employees
+12,2020.0,EN,FT,Data Scientist,39916.0,0.0,Data Scientist,122.0,175.0,4.1,"Lawrence Berkeley National Laboratory
+4.1",1001 to 5000 Employees
+13,2020.0,MI,FT,Lead Data Analyst,87000.0,100.0,Junior Data Scientist,70.0,105.0,3.9,"Publicis Media
+3.9",10000+ Employees
+14,2020.0,MI,FT,Data Analyst,85000.0,100.0,Entry Level - Associate Data Scientist - Commercial,,,3.9,"IBM
+3.9",10000+ Employees
+15,2020.0,MI,FT,Data Analyst,8000.0,50.0,"Data Scientist, Analytics",,,3.7,"Twitch Interactive, Inc.
+3.7",10000+ Employees
+16,2020.0,EN,FT,Data Engineer,41689.0,100.0,Grace Hopper 2023: Data Scientist,82.0,123.0,3.5,"Chewy
+3.5",10000+ Employees
+17,2020.0,SE,FT,Big Data Engineer,114047.0,100.0,Data Scientist,112.0,165.0,4.2,"Colgate-Palmolive
+4.2",10000+ Employees
+18,2020.0,EN,FT,Data Science Consultant,5707.0,50.0,,,,,,
+19,2020.0,MI,FT,Lead Data Engineer,56000.0,100.0,,,,,,
+20,2020.0,MI,FT,Machine Learning Engineer,43331.0,0.0,Data Scientist - NLP,121.0,169.0,3.5,"Bloomberg BNA
+3.4",1001 to 5000 Employees
+21,2020.0,MI,FT,Product Data Analyst,6072.0,100.0,"Data Scientist, Product",160.0,255.0,4.8,"Notion
+4.9",501 to 1000 Employees
+22,2020.0,SE,FT,Data Engineer,47899.0,50.0,Data Scientist II,102.0,152.0,3.6,"Zendesk
+3.6",1001 to 5000 Employees
+23,2020.0,MI,FT,BI Data Analyst,98000.0,0.0,Data Scientist,125.0,145.0,4.1,"Procter & Gamble
+4.1",10000+ Employees
+24,2020.0,MI,FT,Lead Data Scientist,115000.0,0.0,,,,,,
+25,2020.0,EX,FT,Director of Data Science,325000.0,100.0,,,,,,
+26,2020.0,EN,FT,Research Scientist,42000.0,50.0,"Data Scientist (Omics data analysis (genetics, genomics and proteomics))",,,3.7,"Tellus Solutions
+3.7",51 to 200 Employees
+27,2020.0,SE,FT,Data Engineer,33511.0,0.0,,,,,,
+28,2020.0,EN,CT,Business Data Analyst,100000.0,100.0,Data Scientist,130.0,146.0,4.4,"SAP
+4.4",10000+ Employees
+29,2020.0,SE,FT,Machine Learning Manager,117104.0,50.0,,,,,,
+30,2020.0,MI,FT,Data Engineering Manager,59303.0,100.0,,,,,,
+31,2020.0,EN,FT,Big Data Engineer,70000.0,100.0,Data Scientist,105.0,157.0,3.9,"Morrison & Foerster
+3.9",1001 to 5000 Employees
+32,2020.0,SE,FT,Data Scientist,68428.0,100.0,"Data Scientist, Analytics",150.0,175.0,4.7,"Parafin
+4.7",51 to 200 Employees
+33,2020.0,MI,FT,Research Scientist,450000.0,0.0,Data Scientist,136.0,186.0,3.8,"Pinterest
+3.8",1001 to 5000 Employees
+34,2020.0,MI,FT,Data Analyst,46759.0,50.0,,,,,,
+35,2020.0,MI,FT,Data Engineer,74130.0,50.0,,,,,,
+36,2020.0,MI,FT,Data Science Consultant,103000.0,100.0,"Data Scientist, NLP",68.0,191.0,3.5,"Ancestry
+3.5",1001 to 5000 Employees
+37,2020.0,EN,FT,Machine Learning Engineer,250000.0,50.0,Data Scientist,88.0,126.0,4.5,"Pattern Bioscience
+4.5",1 to 50 Employees
+38,2020.0,EN,FT,Data Analyst,10000.0,100.0,Data Scientist,95.0,125.0,3.1,"Burlington Stores
+3.1",10000+ Employees
+39,2020.0,EN,FT,Machine Learning Engineer,138000.0,100.0,Data Scientist,100.0,151.0,4.4,"LiveView Technologies
+4.4",501 to 1000 Employees
+40,2020.0,MI,FT,Data Scientist,45760.0,100.0,Data Scientist,,,4.1,"Old Dominion University
+4.1",1001 to 5000 Employees
+41,2020.0,EX,FT,Data Engineering Manager,79833.0,50.0,Data Analyst Associate,,,4.2,"eTeam Inc.
+4.2",5001 to 10000 Employees
+42,2020.0,MI,FT,Machine Learning Infrastructure Engineer,50180.0,0.0,,,,,,
+43,2020.0,MI,FT,Data Engineer,106000.0,100.0,,,,,,
+44,2020.0,MI,FT,Data Engineer,112872.0,50.0,Data Scientist,82.0,96.0,2.6,"Galaxy Technologies
+2.6",51 to 200 Employees
+45,2020.0,EN,PT,ML Engineer,15966.0,100.0,Data Scientist,86.0,129.0,4.0,"JANUS Research Group
+4.0",201 to 500 Employees
+46,2020.0,MI,FT,Data Scientist,76958.0,100.0,Data Scientist,81.0,184.0,3.7,"National Security Agency
+3.7",Unknown
+47,2020.0,SE,FT,Data Engineer,188000.0,100.0,Data Scientist,85.0,130.0,4.5,"Skylight
+4.5",1 to 50 Employees
+48,2020.0,MI,FT,Data Scientist,105000.0,100.0,Data Scientist,82.0,164.0,3.8,"Abbott Laboratories
+3.8",10000+ Employees
+49,2020.0,MI,FT,Data Engineer,70139.0,50.0,Data Scientist,92.0,128.0,4.0,"JPMorgan Chase & Co
+4.0",10000+ Employees
+50,2020.0,EN,FT,Data Analyst,6072.0,0.0,,,,,,
+51,2020.0,EN,FT,Data Analyst,91000.0,100.0,"Aspire Program, Early Career -Data Scientist I",61.0,90.0,4.0,"RELX
+4.0",10000+ Employees
+52,2020.0,EN,FT,AI Scientist,45896.0,50.0,Data Scientist,150.0,200.0,4.3,"Neuberger Berman
+4.3",1001 to 5000 Employees
+53,2020.0,EN,FT,Data Engineer,54742.0,100.0,,,,,,
+54,2020.0,SE,FL,Computer Vision Engineer,60000.0,100.0,,,,,,
+55,2020.0,SE,FT,Principal Data Scientist,148261.0,100.0,,,,,,
+56,2020.0,MI,FT,Data Scientist,38776.0,100.0,Data Scientist - Level 1,84.0,122.0,4.2,"OPS Consulting, LLC
+4.2",51 to 200 Employees
+57,2020.0,MI,FT,Data Scientist,118000.0,100.0,Data Scientist - BCG X,94.0,144.0,4.3,"Boston Consulting Group
+4.3",10000+ Employees
+58,2020.0,SE,FT,Data Scientist,120000.0,50.0,,,,,,
+59,2020.0,MI,FT,Data Scientist,138350.0,100.0,,,,,,
+60,2020.0,MI,FT,Data Engineer,110000.0,100.0,College Graduate - Data Science (BS/MS),106.0,159.0,4.1,"INTEL
+4.1",10000+ Employees
+61,2020.0,MI,FT,Data Engineer,130800.0,100.0,,,,,,
+62,2020.0,EN,PT,Data Scientist,21669.0,50.0,Data Scientist,82.0,140.0,4.4,"SAP
+4.4",10000+ Employees
+63,2020.0,SE,FT,Data Scientist,412000.0,100.0,Data Scientist,89.0,123.0,4.1,"Federal Bureau of Investigation
+4.1",10000+ Employees
+64,2020.0,SE,FT,Machine Learning Engineer,45618.0,100.0,,,,,,
+65,2020.0,EN,FT,Data Scientist,62726.0,50.0,,,,,,
+66,2020.0,EN,FT,Data Scientist,49268.0,0.0,Data Scientist,112.0,157.0,4.1,"University of California San Francisco
+4.1",10000+ Employees
+67,2020.0,SE,FT,Data Science Manager,190200.0,100.0,Data Scientist,90.0,120.0,2.7,"REVOLVE
+2.8",1001 to 5000 Employees
+68,2020.0,EN,FT,Data Scientist,105000.0,100.0,"Jr. Data Scientist, Minerva Analytics",,,3.7,"Amazon.com Services LLC
+3.7",10000+ Employees
+69,2020.0,SE,FT,Data Scientist,91237.0,0.0,,,,,,
+70,2020.0,MI,FT,Data Scientist,62726.0,50.0,"Research Data Science, Future Leaders Graduate Program, US, 2024",69.0,110.0,4.1,"GSK
+4.1",10000+ Employees
+71,2020.0,MI,FT,Data Scientist,42197.0,50.0,,,,,,
+72,2021.0,EN,FT,Research Scientist,82528.0,50.0,,,,,,
+73,2021.0,EX,FT,BI Data Analyst,150000.0,100.0,Data Scientist,69.0,122.0,4.0,"US National Oceanic and Atmospheric Administration
+4.0",10000+ Employees
+74,2021.0,EX,FT,Head of Data,235000.0,100.0,,,,,,
+75,2021.0,SE,FT,Data Scientist,53192.0,50.0,Associate Data Scientist,89.0,122.0,3.4,"OneMain Financial
+3.4",5001 to 10000 Employees
+76,2021.0,MI,FT,BI Data Analyst,100000.0,100.0,Research and Development Engineer - Co-op - Engineer or Scientist,,,4.1,"Procter & Gamble
+4.1",10000+ Employees
+77,2021.0,MI,PT,3D Computer Vision Researcher,5409.0,50.0,,,,,,
+78,2021.0,MI,CT,ML Engineer,270000.0,100.0,,,,,,
+79,2021.0,EN,FT,Data Analyst,80000.0,100.0,Environmental Data Scientist I,75.0,80.0,3.9,"Battelle
+3.9",1001 to 5000 Employees
+80,2021.0,SE,FT,Data Analytics Engineer,79197.0,100.0,Research Data Analyst,70.0,80.0,4.0,"Health Choice Network
+4.0",51 to 200 Employees
+81,2021.0,MI,FT,Data Engineer,140000.0,100.0,Data Scientist Trainee,79.0,118.0,3.4,"Axle Informatics
+3.4",501 to 1000 Employees
+82,2021.0,MI,FT,Applied Data Scientist,54238.0,50.0,,,,,,
+83,2021.0,MI,FT,Machine Learning Engineer,47282.0,100.0,Research & Development Engineer Co-op (Associate Scientist),,,4.1,"Procter & Gamble
+4.1",10000+ Employees
+84,2021.0,EX,FT,Director of Data Science,153667.0,100.0,,,,,,
+85,2021.0,MI,FT,Data Engineer,28476.0,100.0,Data Scientist,130.0,170.0,4.3,"Flow
+4.3",51 to 200 Employees
+86,2021.0,EN,FT,Data Analyst,59102.0,50.0,Data Scientist,96.0,134.0,2.7,"GEHA
+2.8",1001 to 5000 Employees
+87,2021.0,MI,FT,Data Analytics Engineer,110000.0,100.0,Junior Data Scientist (Co-op),85.0,127.0,3.8,"Gentherm
+3.8",10000+ Employees
+88,2021.0,SE,FT,Lead Data Analyst,170000.0,100.0,Data Scientist/Data Analyst,,,3.8,"Clifford Beers Community Care Center
+4.1",51 to 200 Employees
+89,2021.0,SE,FT,Data Analyst,80000.0,100.0,,,,,,
+90,2021.0,SE,FT,Marketing Data Analyst,88654.0,100.0,,,,,,
+91,2021.0,EN,FT,Data Science Consultant,76833.0,100.0,Data Scientist,70.0,105.0,3.5,"Denver Health
+3.4",5001 to 10000 Employees
+92,2021.0,MI,FT,Lead Data Analyst,19609.0,100.0,Data Scientist,197.0,269.0,3.9,"Meta
+3.9",10000+ Employees
+93,2021.0,SE,FT,Lead Data Engineer,276000.0,0.0,Data Scientist,105.0,120.0,4.0,"The Associated Press
+4.0",1001 to 5000 Employees
+94,2021.0,EN,FT,Data Scientist,29751.0,50.0,Associate Data Scientist,91.0,131.0,3.9,"BOEING
+3.9",10000+ Employees
+95,2021.0,MI,FT,Cloud Data Engineer,89294.0,50.0,Analytics Scientist,98.0,133.0,4.0,"Ford Motor Company
+4.0",10000+ Employees
+96,2021.0,EN,PT,AI Scientist,12000.0,100.0,,,,,,
+97,2021.0,MI,FT,Financial Data Analyst,450000.0,100.0,Data Scientist,81.0,120.0,3.9,"University Health
+3.9",1001 to 5000 Employees
+98,2021.0,EN,FT,Computer Vision Software Engineer,70000.0,100.0,Data Scientist,80.0,90.0,3.5,"SoundThinking
+3.5",201 to 500 Employees
+99,2021.0,MI,FT,Computer Vision Software Engineer,95746.0,100.0,,,,,,
+100,2021.0,MI,FT,Data Analyst,75000.0,0.0,,,,,,
+101,2021.0,SE,FT,Data Engineer,150000.0,100.0,,,,,,
+102,2021.0,MI,FT,BI Data Analyst,36259.0,50.0,,,,,,
+103,2021.0,MI,FT,Data Analyst,62000.0,0.0,Research & Development Engineer (Associate Scientist) - Full Time Campus,85.0,115.0,4.1,"Procter & Gamble
+4.1",10000+ Employees
+104,2021.0,MI,FT,Data Scientist,73000.0,0.0,Data Analytics Engineer,85.0,115.0,4.1,"Procter & Gamble
+4.1",10000+ Employees
+105,2021.0,MI,FT,Data Analyst,51519.0,50.0,Data Scientist 1,5.0,7.0,3.8,"University of New Mexico
+3.8",10000+ Employees
+106,2021.0,MI,FT,Research Scientist,187442.0,100.0,Machine Learning Data Scientist,180.0,250.0,3.7,"Machinify
+3.7",51 to 200 Employees
+107,2021.0,SE,FT,Data Engineer,115000.0,100.0,Data Scientist,82.0,109.0,3.6,"BRADY WORLDWIDE INC
+3.6",5001 to 10000 Employees
+108,2021.0,SE,FT,Data Engineer,150000.0,100.0,Junior Data Scientist,95.0,115.0,2.9,"FriendFinder Networks
+2.9",201 to 500 Employees
+109,2021.0,EN,FT,Data Engineer,30428.0,100.0,"Data Scientist (L5), Member Product",126.0,195.0,4.2,"Netflix
+4.2",5001 to 10000 Employees
+110,2021.0,SE,FT,Machine Learning Engineer,94564.0,50.0,Revenue Data Scientist - Industry Solutions,130.0,155.0,3.7,"Houzz
+3.7",1001 to 5000 Employees
+111,2021.0,SE,FT,Director of Data Engineering,113476.0,100.0,,,,,,
+112,2021.0,SE,FT,Lead Data Engineer,103160.0,100.0,,,,,,
+113,2021.0,EN,PT,AI Scientist,12000.0,100.0,,,,,,
+114,2021.0,MI,FT,Data Engineer,45391.0,100.0,Senior Data Scientist,118.0,161.0,3.9,"Kellogg Company
+3.9",10000+ Employees
+115,2021.0,EN,FT,Machine Learning Scientist,225000.0,100.0,Data Scientist,94.0,132.0,4.0,"ShyftLabs
+3.8",51 to 200 Employees
+116,2021.0,MI,FT,Data Scientist,50000.0,100.0,Data Scientist,,,5.0,"APPIC Solutions LLC
+5.0",1 to 50 Employees
+117,2021.0,MI,FT,Data Science Engineer,40189.0,100.0,Data Scientist,150.0,200.0,4.8,"Chapter
+4.8",51 to 200 Employees
+118,2021.0,EN,FT,Data Analyst,90000.0,100.0,,,,,,
+119,2021.0,MI,FT,Data Engineer,200000.0,100.0,Data Scientist Specialist,82.0,143.0,3.9,"Parsons
+3.9",10000+ Employees
+120,2021.0,MI,FT,Big Data Engineer,60000.0,50.0,,,,,,
+121,2021.0,SE,FT,Principal Data Engineer,200000.0,100.0,,,,,,
+122,2021.0,EN,FT,Data Analyst,50000.0,100.0,Junior Data Scientist,90.0,140.0,3.4,"HawkEye360
+3.4",51 to 200 Employees
+123,2021.0,EN,FT,Applied Data Scientist,110037.0,0.0,Data Specialist,30.0,35.0,4.1,Juristat,1 to 50 Employees
+124,2021.0,EN,PT,Data Analyst,10354.0,50.0,"2024 Co-Op, Data Science and Artificial Intelligence",116.0,169.0,3.7,"Moderna
+3.7",1001 to 5000 Employees
+125,2021.0,MI,FT,Principal Data Scientist,151000.0,100.0,Associate Data Scientist,65.0,131.0,4.0,"Tencent
+4.0",10000+ Employees
+126,2021.0,SE,FT,Machine Learning Scientist,120000.0,50.0,Junior Data Scientist,70.0,104.0,3.9,"Oak Ridge National Laboratory
+3.9",5001 to 10000 Employees
+127,2021.0,MI,FT,Data Scientist,9466.0,0.0,Data Scientist,105.0,140.0,2.8,"Conversica
+2.7",201 to 500 Employees
+128,2021.0,EN,FT,Machine Learning Engineer,20000.0,100.0,Data Analytics Manager,70.0,106.0,3.9,"WebstaurantStore
+3.9",1001 to 5000 Employees
+129,2021.0,SE,FT,Lead Data Scientist,40570.0,50.0,,,,,,
+130,2021.0,EN,FT,Machine Learning Developer,100000.0,50.0,Data Scientist,59.0,93.0,3.6,"NYC Careers
+3.6",Unknown
+131,2021.0,EN,FT,Data Scientist,49646.0,50.0,,,,,,
+132,2021.0,MI,FT,Applied Machine Learning Scientist,38400.0,100.0,Data Scientist - Generative AI,76.0,115.0,4.2,"HP
+4.2",10000+ Employees
+133,2021.0,SE,FT,Computer Vision Engineer,24000.0,100.0,Associate Data Scientist,87.0,116.0,4.0,"Caterpillar
+4.0",10000+ Employees
+134,2021.0,EN,FT,Data Scientist,100000.0,0.0,"Core Tech TPM, Data and ML",132.0,196.0,3.9,"Meta
+3.9",10000+ Employees
+135,2021.0,MI,FT,Data Analyst,90000.0,100.0,Public Notice for Direct Hire (Data Modernization),45.0,176.0,4.0,"Centers for Disease Control and Prevention
+4.0",10000+ Employees
+136,2021.0,MI,FT,ML Engineer,63711.0,50.0,DATA SCIENTIST,92.0,128.0,3.8,"Home Depot / THD
+3.8",10000+ Employees
+137,2021.0,MI,FT,ML Engineer,77364.0,50.0,,,,,,
+138,2021.0,SE,FT,Principal Data Scientist,220000.0,0.0,DATA SCIENTIST,101.0,204.0,4.5,"US Securities and Exchange Commission
+4.5",1001 to 5000 Employees
+139,2021.0,EN,FT,Data Scientist,80000.0,100.0,,,,,,
+140,2021.0,MI,FT,Data Analyst,135000.0,100.0,Data Scientist,150.0,175.0,5.0,"Octaura
+5.0",1 to 50 Employees
+141,2021.0,SE,FT,Data Science Manager,240000.0,0.0,Entry Level - Associate Consultant (Federal),53.0,100.0,3.9,"IBM
+3.9",10000+ Employees
+142,2021.0,SE,FT,Data Engineering Manager,150000.0,0.0,Data Scientist/Database Administrator,80.0,126.0,2.8,"Eccalon LLC
+2.8",51 to 200 Employees
+143,2021.0,MI,FT,Data Scientist,82500.0,100.0,,,,,,
+144,2021.0,MI,FT,Data Engineer,100000.0,100.0,Operations Research Data Scientist,94.0,186.0,4.0,"Marriott International, Inc
+4.0",10000+ Employees
+145,2021.0,SE,FT,Machine Learning Engineer,82744.0,50.0,,,,,,
+146,2021.0,MI,FT,Research Scientist,62649.0,50.0,"Data Analyst, Marketing",140.0,190.0,4.8,"Notion
+4.9",501 to 1000 Employees
+147,2021.0,MI,FT,Data Engineer,90000.0,100.0,,,,,,
+148,2021.0,SE,FT,Data Engineering Manager,153000.0,100.0,Data Scientist,89.0,133.0,3.4,"The Chefs' Warehouse
+3.4",Unknown
+149,2021.0,SE,FT,Cloud Data Engineer,160000.0,100.0,Data Scientist,92.0,126.0,4.2,"Hyperspace Ventures
+4.2",1 to 50 Employees
+150,2021.0,SE,FT,Director of Data Science,168000.0,0.0,Principal Data Scientist,134.0,248.0,3.9,"LexisNexis
+3.9",5001 to 10000 Employees
+151,2021.0,MI,FT,Data Scientist,150000.0,100.0,,,,,,
+152,2021.0,MI,FT,Data Scientist,75774.0,100.0,Data Scientist,53.0,84.0,4.1,"US Customs and Border Protection
+4.1",10000+ Employees
+153,2021.0,EN,FT,Data Scientist,13400.0,100.0,Junior Consultant in Strategy & Data Science - New York,69.0,99.0,4.1,"Ekimetrics
+4.1",51 to 200 Employees
+154,2021.0,SE,FT,Data Science Manager,144000.0,100.0,,,,,,
+155,2021.0,SE,FT,Data Science Engineer,127221.0,50.0,Entry Level Data Science - December 2023 and May 2024 Grads,74.0,125.0,4.2,"NXP Semiconductors
+4.2",10000+ Employees
+156,2021.0,MI,FT,Data Scientist,119059.0,100.0,Data Scientist,81.0,179.0,4.0,"Tencent
+4.0",10000+ Employees
+157,2021.0,MI,FT,Applied Machine Learning Scientist,423000.0,50.0,Data Scientist,79.0,122.0,4.2,"US Federal Energy Regulatory Commission
+4.2",1001 to 5000 Employees
+158,2021.0,SE,FT,Data Analytics Manager,120000.0,100.0,Data Scientist,59.0,130.0,4.1,"US Federal Bureau of Investigation
+4.1",10000+ Employees
+159,2021.0,EN,FT,Machine Learning Engineer,125000.0,100.0,,,,,,
+160,2021.0,EX,FT,Head of Data,230000.0,50.0,,,,,,
+161,2021.0,EX,FT,Head of Data Science,85000.0,0.0,Data Scientist,90.0,125.0,4.2,"Yale University
+4.2",10000+ Employees
+162,2021.0,MI,FT,Data Engineer,28369.0,50.0,Data Scientist,74.0,123.0,3.9,"Sasol
+3.9",10000+ Employees
+163,2021.0,EN,FT,Data Science Consultant,63831.0,50.0,,,,,,
+164,2021.0,EX,FT,Director of Data Science,130026.0,50.0,Data Scientist,105.0,171.0,3.9,"McAfee, LLC
+3.8",1001 to 5000 Employees
+165,2021.0,SE,FT,Data Specialist,165000.0,100.0,Data Scientist,99.0,138.0,3.9,"Altria
+3.9",5001 to 10000 Employees
+166,2021.0,EN,FT,Data Engineer,80000.0,100.0,Data Scientist,204.0,294.0,4.1,"Zoox
+4.1",1001 to 5000 Employees
+167,2021.0,EX,FT,Director of Data Science,250000.0,0.0,,,,,,
+168,2021.0,EN,FT,BI Data Analyst,55000.0,50.0,Career Consulting Data Scientist - National - College Program 2024,,,3.9,"Mercer
+3.9",10000+ Employees
+169,2021.0,MI,FT,Data Architect,150000.0,100.0,,,,,,
+170,2021.0,MI,FT,Data Architect,170000.0,100.0,,,,,,
+171,2021.0,MI,FT,Data Engineer,82528.0,100.0,,,,,,
+172,2021.0,EN,FT,Data Analyst,60000.0,100.0,Data Scientist,88.0,132.0,4.9,"Wise Equation Solutions
+4.9",51 to 200 Employees
+173,2021.0,SE,FT,Principal Data Scientist,235000.0,100.0,Data Scientist,93.0,132.0,4.0,"Federal Reserve Bank of Dallas
+3.9",1001 to 5000 Employees
+174,2021.0,SE,FT,Research Scientist,60757.0,50.0,,,,,,
+175,2021.0,SE,FT,Data Engineering Manager,174000.0,100.0,Jr Data Scientist,77.0,106.0,4.1,"Veracity Software
+4.1",51 to 200 Employees
+176,2021.0,MI,FT,Data Scientist,2859.0,0.0,Contract - Data Scientist,,,3.6,"GHX
+3.6",501 to 1000 Employees
+177,2021.0,MI,FT,Data Scientist,40038.0,100.0,E-commerce Data Scientist,153.0,332.0,3.5,"TikTok
+3.5",1001 to 5000 Employees
+178,2021.0,EN,FT,Machine Learning Engineer,81000.0,50.0,,,,,,
+179,2021.0,MI,FT,Data Scientist,5679.0,100.0,Data Scientist,123.0,183.0,4.3,"Fullpower Technologies, Inc.
+4.3",51 to 200 Employees
+180,2021.0,MI,FT,Big Data Engineer,22611.0,0.0,,,,,,
+181,2021.0,MI,FT,Data Scientist,90734.0,50.0,,,,,,
+182,2021.0,MI,FT,Data Engineer,26005.0,0.0,Principal Data Scientist,130.0,218.0,4.3,"Fidelity Investments
+4.3",10000+ Employees
+183,2021.0,SE,FT,Finance Data Analyst,61896.0,50.0,,,,,,
+184,2021.0,MI,FL,Machine Learning Scientist,12000.0,50.0,Data Scientist,59.0,82.0,3.6,"University of Rochester
+3.6",10000+ Employees
+185,2021.0,MI,FT,Data Engineer,4000.0,100.0,,,,,,
+186,2021.0,SE,FT,Data Analytics Engineer,50000.0,100.0,,,,,,
+187,2021.0,EX,FT,Data Science Consultant,69741.0,100.0,,,,,,
+188,2021.0,SE,FT,Data Engineer,76833.0,50.0,Data Scientist III,146.0,174.0,3.7,"SoftDev Incorporated
+3.7",1 to 50 Employees
+189,2021.0,MI,FT,Machine Learning Engineer,74000.0,50.0,Data Scientist,104.0,145.0,4.2,"Johnson & Johnson
+4.2",10000+ Employees
+190,2021.0,SE,FT,Data Science Manager,152000.0,100.0,,,,,,
+191,2021.0,EN,FT,Machine Learning Engineer,21844.0,50.0,"Data Scientist, Dependency Planning",202.0,316.0,4.3,"Asana
+4.3",1001 to 5000 Employees
+192,2021.0,MI,FT,Big Data Engineer,18000.0,0.0,,,,,,
+193,2021.0,SE,FT,Data Science Manager,174000.0,100.0,Sr Data Scientist,114.0,155.0,4.2,"Blue Cross and Blue Shield of North Carolina
+4.2",5001 to 10000 Employees
+194,2021.0,SE,FT,Research Scientist,96113.0,50.0,,,,,,
+195,2021.0,MI,FT,Data Scientist,147000.0,50.0,Principal Data Scientist,144.0,180.0,4.1,"Rocket Software
+4.2",1001 to 5000 Employees
+196,2021.0,EN,FT,BI Data Analyst,9272.0,100.0,Statistician- Data Scientist III- PCAPP,105.0,135.0,3.9,"Battelle
+3.9",1001 to 5000 Employees
+197,2021.0,SE,FT,Machine Learning Engineer,24342.0,100.0,,,,,,
+198,2021.0,SE,FT,Data Science Manager,54094.0,50.0,Data Scientist,79.0,109.0,3.6,"Auto-Owners Insurance
+3.6",5001 to 10000 Employees
+199,2021.0,EN,FT,Data Science Consultant,90000.0,100.0,"Data Scientist, Analytics - Ads",100.0,140.0,3.8,"Quizlet
+3.8",201 to 500 Employees
+200,2021.0,MI,FT,Data Scientist,61467.0,50.0,,,,,,
+201,2021.0,SE,FT,Machine Learning Infrastructure Engineer,195000.0,100.0,,,,,,
+202,2021.0,MI,FT,Data Scientist,37825.0,100.0,,,,,,
+203,2021.0,SE,FT,Research Scientist,50000.0,100.0,,,,,,
+204,2021.0,MI,FT,Data Scientist,160000.0,100.0,Data Scientist,125.0,129.0,4.6,"OTS Solutions
+4.6",51 to 200 Employees
+205,2021.0,MI,FT,Data Scientist,12901.0,0.0,Data Scientist,107.0,157.0,3.5,"McDonald's Corporation
+3.5",10000+ Employees
+206,2021.0,SE,FT,Machine Learning Engineer,200000.0,100.0,Data Scientist,81.0,176.0,4.3,"Covenant Eyes
+4.3",51 to 200 Employees
+207,2021.0,SE,FT,Data Engineer,165000.0,0.0,,,,,,
+208,2021.0,MI,FL,Data Engineer,20000.0,0.0,Senior Data Scientist,118.0,158.0,3.9,"Disney
+3.9",10000+ Employees
+209,2021.0,SE,FT,Data Analytics Manager,120000.0,0.0,,,,,,
+210,2021.0,MI,FT,Machine Learning Engineer,24823.0,50.0,Data Scientist,88.0,121.0,3.9,"The Mosaic Company (Tampa, FL)
+4.0",5001 to 10000 Employees
+211,2021.0,MI,FT,Research Scientist,56738.0,50.0,Data Scientist,106.0,242.0,4.2,"Booz Allen Hamilton
+4.2",10000+ Employees
+212,2021.0,MI,FT,Data Engineer,66022.0,50.0,Data Scientist,85.0,124.0,4.2,"Lightsource BP
+4.2",501 to 1000 Employees
+213,2021.0,EN,FT,Big Data Engineer,5882.0,0.0,Senior Data Scientist,169.0,172.0,4.1,"CALICO
+4.1",201 to 500 Employees
+214,2021.0,EN,FT,Machine Learning Engineer,24823.0,50.0,Remote Data Scientist,81.0,115.0,4.3,"The Infosoft Group
+4.3",51 to 200 Employees
+215,2021.0,SE,FT,Principal Data Engineer,185000.0,100.0,"Data Scientist, Clinical Analytics",110.0,151.0,3.5,"Spring Health
+3.5",501 to 1000 Employees
+216,2021.0,EN,PT,Computer Vision Engineer,28609.0,50.0,"Data Scientist, RegLab",87.0,126.0,4.2,"Stanford University
+4.2",10000+ Employees
+217,2021.0,MI,FT,Data Scientist,90734.0,50.0,Data Scientist,90.0,125.0,4.2,"Yale University
+4.2",10000+ Employees
+218,2021.0,MI,FT,Machine Learning Engineer,88654.0,100.0,ViiV Healthcare (GSK) US Data Scientist,110.0,167.0,4.1,"GSK
+4.1",10000+ Employees
+219,2021.0,SE,FT,Data Analytics Manager,140000.0,100.0,Data Scientist,160.0,170.0,4.3,"Forge Global
+4.3",1 to 50 Employees
+220,2021.0,MI,FT,Machine Learning Engineer,46597.0,100.0,"Senior Data Scientist, Ops Data Platform",160.0,247.0,4.6,"NVIDIA
+4.6",10000+ Employees
+221,2021.0,MI,FT,Data Scientist,116914.0,50.0,,,,,,
+222,2021.0,MI,FT,Data Scientist,33808.0,0.0,Principal Data Scientist,188.0,306.0,4.1,"Salesforce
+4.1",10000+ Employees
+223,2021.0,MI,FT,Data Scientist,56256.0,50.0,,,,,,
+224,2021.0,SE,FT,Machine Learning Scientist,225000.0,100.0,Product Data Scientist,73.0,176.0,4.0,"PayPal
+4.0",10000+ Employees
+225,2021.0,EX,CT,Principal Data Scientist,416000.0,100.0,,,,,,
+226,2021.0,SE,FT,Data Scientist,87738.0,100.0,Junior Data Scientist,70.0,105.0,3.9,"KBR
+3.9",10000+ Employees
+227,2021.0,MI,FT,Data Scientist,88654.0,50.0,DATA SCIENTIST,156.0,184.0,4.1,"US Department of the Air Force - Agency Wide
+4.1",10000+ Employees
+228,2021.0,SE,FT,Data Scientist,135000.0,0.0,Data Scientist - AI/ML,,,3.9,"Stanford Health Care
+3.9",10000+ Employees
+229,2021.0,SE,FT,Data Analyst,71786.0,100.0,Data Scientist II (Remote),85.0,120.0,3.4,"KOHLS
+3.4",10000+ Employees
+230,2021.0,EN,FT,Big Data Engineer,16228.0,100.0,Data Scientist (Data Platforms & Applied Intelligence),101.0,138.0,3.0,"Banfield, The Pet Hospital
+3.0",10000+ Employees
+231,2021.0,SE,FT,ML Engineer,256000.0,100.0,Data Scientist,83.0,125.0,4.5,"Pattern
+4.5",1001 to 5000 Employees
+232,2021.0,SE,FT,Director of Data Engineering,200000.0,100.0,,,,,,
+233,2021.0,SE,FT,Data Analyst,200000.0,100.0,"Data Scientist, Tiktok Ads-Vertical Solutions",153.0,296.0,3.5,"TikTok
+3.5",1001 to 5000 Employees
+234,2021.0,MI,FT,Data Architect,180000.0,100.0,,,,,,
+235,2021.0,MI,FT,Head of Data Science,110000.0,0.0,,,,,,
+236,2021.0,MI,FT,Research Scientist,63810.0,100.0,Data Scientist III,150.0,200.0,3.7,"Conde Nast
+3.7",501 to 1000 Employees
+237,2021.0,MI,FT,Data Scientist,46809.0,100.0,Quantitative Analyst/Data Scientist,53.0,96.0,3.8,"Leidos
+3.8",10000+ Employees
+238,2021.0,EN,FT,Data Scientist,4000.0,0.0,Senior Data Scientist,140.0,206.0,3.8,"Coinbase
+3.7",501 to 1000 Employees
+239,2021.0,EN,FT,Data Engineer,21637.0,50.0,Data Scientist 1,100.0,120.0,3.8,"Public Consulting Group
+3.8",1001 to 5000 Employees
+240,2021.0,SE,FT,Data Scientist,103691.0,100.0,"Data Scientist, Product",160.0,255.0,4.8,"Notion
+4.9",501 to 1000 Employees
+241,2021.0,MI,FT,Data Analyst,80000.0,100.0,,,,,,
+242,2021.0,MI,FT,Data Engineer,110000.0,100.0,"Data Scientist, Machine Learning",132.0,176.0,4.0,"Aptos
+4.0",1001 to 5000 Employees
+243,2021.0,SE,FT,Data Scientist,165000.0,100.0,,,,,,
+244,2021.0,EN,FT,AI Scientist,18053.0,100.0,,,,,,
+245,2021.0,MI,FT,Data Engineer,72212.0,50.0,Principal Data Scientist - Machine Learning,116.0,163.0,3.8,"Arthrex
+3.8",51 to 200 Employees
+246,2021.0,EN,FT,Data Scientist,36643.0,50.0,,,,,,
+247,2021.0,MI,FT,Data Engineer,12103.0,0.0,Principal Data Scientist,144.0,193.0,4.5,"Intuit
+4.5",10000+ Employees
+248,2021.0,SE,FT,Data Engineer,96282.0,50.0,,,,,,
+249,2021.0,SE,FT,Principal Data Analyst,170000.0,100.0,Data Engineer,79.0,114.0,4.5,"REPS & Co.
+4.5",201 to 500 Employees
+250,2021.0,MI,FT,Data Scientist,115000.0,50.0,Principal Data Scientist,134.0,257.0,4.3,"Microsoft
+4.3",10000+ Employees
+251,2021.0,EN,FT,Data Scientist,90000.0,100.0,,,,,,
+252,2021.0,EX,FT,Principal Data Engineer,600000.0,100.0,"Principal Data Scientist, Machine Learning",205.0,251.0,4.5,"Rec Room
+4.5",51 to 200 Employees
+253,2021.0,EN,FT,Data Scientist,28399.0,100.0,Sr. Data Scientist (Starlink Product),160.0,220.0,3.9,"SpaceX
+3.9",5001 to 10000 Employees
+254,2021.0,MI,FT,Data Analyst,93000.0,100.0,Data Scientist (Artificial Intelligence / Machine Learning),93.0,135.0,3.7,"ABS Consulting
+3.7",1001 to 5000 Employees
+255,2021.0,SE,FT,Big Data Architect,99703.0,50.0,"Specialist, Data Scientist",73.0,104.0,3.6,"BNY Mellon
+3.6",10000+ Employees
+256,2021.0,MI,FT,Data Engineer,200000.0,100.0,Data Scientist Co-op - Masters Degree,,,4.3,"Torc Robotics
+4.3",501 to 1000 Employees
+257,2021.0,SE,FT,Principal Data Scientist,173762.0,100.0,,,,,,
+258,2021.0,SE,FT,Machine Learning Engineer,185000.0,50.0,,,,,,
+259,2021.0,EX,FT,Director of Data Science,141846.0,0.0,,,,,,
+260,2021.0,MI,FT,Data Scientist,130000.0,50.0,,,,,,
+261,2021.0,SE,FT,Data Analyst,63831.0,50.0,Principal Data Scientist,168.0,209.0,4.0,"Remitly
+4.1",1001 to 5000 Employees
+262,2021.0,MI,FT,Data Scientist,16904.0,100.0,,,,,,
+263,2021.0,SE,FT,Machine Learning Engineer,66265.0,0.0,Senior Data Scientist (Product Analytics),179.0,210.0,4.5,"Cedar Inc
+4.5",51 to 200 Employees
+264,2021.0,MI,FT,Data Scientist,25532.0,100.0,Data Scientist,74.0,124.0,3.2,"Panasonic Avionics Corporation
+3.2",1001 to 5000 Employees
+265,2021.0,SE,FT,Lead Data Engineer,160000.0,50.0,,,,,,
+266,2021.0,MI,FT,Data Engineer,93150.0,0.0,Research Associate Data Scientist - Nursing Research,78.0,133.0,4.1,"CEDARS-SINAI
+4.1",10000+ Employees
+267,2021.0,MI,FT,Data Engineer,111775.0,0.0,Senior People Data Scientist,138.0,188.0,4.3,"Atlassian
+4.3",5001 to 10000 Employees
+268,2021.0,MI,FT,Data Engineer,28016.0,100.0,,,,,,
+269,2021.0,EN,FT,Data Engineer,65013.0,50.0,USA-Data Scientist II (Clinical),,,4.2,"eTeam Inc.
+4.2",5001 to 10000 Employees
+270,2021.0,EN,FT,Data Engineer,72500.0,100.0,Data Scientist,119.0,179.0,4.1,"INTEL
+4.1",10000+ Employees
+271,2021.0,SE,FT,Computer Vision Engineer,18907.0,0.0,Data Scientist,85.0,122.0,3.4,"Axle Informatics
+3.4",501 to 1000 Employees
+272,2021.0,EN,FT,Data Science Consultant,76833.0,0.0,"Data Scientist, Sales Insights",160.0,210.0,4.8,"Notion
+4.9",501 to 1000 Employees
+273,2021.0,EN,FT,Machine Learning Engineer,85000.0,100.0,Machine Learning Data Scientist - Growth Algorithms,211.0,262.0,3.3,"Stitch Fix
+3.3",10000+ Employees
+274,2021.0,SE,FT,Data Scientist,77684.0,50.0,,,,,,
+275,2021.0,EN,FT,Data Scientist,100000.0,100.0,Senior Data Scientist - Shipping Optimization,156.0,215.0,4.7,"Faire
+4.6",1001 to 5000 Employees
+276,2021.0,EN,FT,Data Scientist,58000.0,50.0,DATA ENGINEER,101.0,142.0,4.2,"Shell Energy Solutions
+4.1",10000+ Employees
+277,2021.0,SE,FT,AI Scientist,55000.0,100.0,Principal Technical Data Scientist,149.0,200.0,4.3,"Atlassian
+4.3",5001 to 10000 Employees
+278,2021.0,SE,FT,Data Scientist,20171.0,50.0,,,,,,
+279,2021.0,EN,FT,Business Data Analyst,59102.0,100.0,,,,,,
+280,2021.0,MI,FT,Data Engineer,112000.0,100.0,Statistician (Data Scientist),94.0,146.0,3.1,US National Agricultural Statistics Service,1001 to 5000 Employees
+281,2021.0,EN,FT,Research Scientist,100000.0,0.0,,,,,,
+282,2021.0,MI,PT,Data Engineer,69741.0,100.0,Data Engineer,85.0,115.0,4.3,"Rockstar Games
+4.3",1001 to 5000 Employees
+283,2021.0,SE,CT,Staff Data Scientist,105000.0,100.0,,,,,,
+284,2021.0,MI,FT,Research Scientist,69999.0,50.0,Data Scientist,100.0,133.0,3.9,"Wintrust Financial
+3.9",1001 to 5000 Employees
+285,2021.0,SE,FT,Data Science Manager,94665.0,50.0,MATERNAL AND CHILD HEALTH DATA SCIENTIST/EPIDEMIOLOGIST,63.0,89.0,3.5,"The State of New Hampshire
+3.5",5001 to 10000 Employees
+286,2021.0,SE,FT,Head of Data,102839.0,100.0,"Data Scientist, Analytics & Insights",116.0,154.0,2.9,"LG Electronics U.S.
+2.9",1001 to 5000 Employees
+287,2021.0,MI,FT,Data Scientist,109000.0,50.0,Data Scientist Trainee,75.0,113.0,3.5,"Ferrovial external
+3.5",10000+ Employees
+288,2021.0,MI,FT,Machine Learning Engineer,51064.0,50.0,,,,,,
+289,2022.0,SE,FT,Data Engineer,135000.0,100.0,"Data Scientist, Model e Customer Business Systems",94.0,126.0,4.0,"Ford Motor Company
+4.0",10000+ Employees
+290,2022.0,SE,FT,Data Analyst,155000.0,100.0,,,,,,
+291,2022.0,SE,FT,Data Analyst,120600.0,100.0,"Senior Data Scientist, AIML, GenAI, NLP, CV",113.0,159.0,3.5,"Ancestry
+3.5",1001 to 5000 Employees
+292,2022.0,MI,FT,Data Scientist,130000.0,0.0,"Data Scientist, Infrastructure Foundation",213.0,253.0,4.2,"Roblox
+4.1",1001 to 5000 Employees
+293,2022.0,MI,FT,Data Scientist,90000.0,0.0,"Sr. Data Scientist, Content",123.0,177.0,3.8,"Pinterest
+3.8",1001 to 5000 Employees
+294,2022.0,MI,FT,Data Engineer,170000.0,100.0,Data Scientist,89.0,129.0,3.6,"Health Alliance Plan
+3.6",1001 to 5000 Employees
+295,2022.0,MI,FT,Data Engineer,150000.0,100.0,,,,,,
+296,2022.0,SE,FT,Data Analyst,102100.0,100.0,Managing Director Data Scientist Engineer,133.0,197.0,3.5,"Webster Financial Corp
+3.5",1001 to 5000 Employees
+297,2022.0,SE,FT,Data Analyst,84900.0,100.0,Staff Data Scientist,144.0,191.0,4.5,"Intuit
+4.5",10000+ Employees
+298,2022.0,SE,FT,Data Scientist,136620.0,100.0,Data Science Analyst I-Personalized Medicine,72.0,109.0,3.5,"Mount Sinai
+3.5",10000+ Employees
+299,2022.0,SE,FT,Data Scientist,99360.0,100.0,Data Scientist,70.0,100.0,4.0,"Applied Engineering, Inc
+4.0",51 to 200 Employees
+300,2022.0,SE,FT,Data Scientist,117789.0,0.0,,,,,,
+301,2022.0,SE,FT,Data Scientist,104702.0,0.0,,,,,,
+302,2022.0,SE,FT,Data Scientist,146000.0,100.0,,,,,,
+303,2022.0,SE,FT,Data Scientist,123000.0,100.0,Quality Systems Data Scientist (Hybrid or Remote),66.0,89.0,3.7,"Schreiber Foods
+3.7",Unknown
+304,2022.0,EN,FT,Data Engineer,52351.0,100.0,,,,,,
+305,2022.0,SE,FT,Data Analyst,99000.0,0.0,,,,,,
+306,2022.0,SE,FT,Data Analyst,116000.0,0.0,,,,,,
+307,2022.0,MI,FT,Data Analyst,106260.0,0.0,,,,,,
+308,2022.0,MI,FT,Data Analyst,126500.0,0.0,Senior Data Scientist,112.0,218.0,4.3,"Microsoft
+4.3",10000+ Employees
+309,2022.0,EX,FT,Data Engineer,242000.0,100.0,Data Scientist,113.0,204.0,3.9,"Parsons
+3.9",10000+ Employees
+310,2022.0,EX,FT,Data Engineer,200000.0,100.0,"Data Scientist, Product Engagement",94.0,156.0,3.6,"Realtor.com Careers
+3.7",1001 to 5000 Employees
+311,2022.0,MI,FT,Data Scientist,65438.0,0.0,Data Scientist,97.0,127.0,4.0,"HCSC
+3.9",10000+ Employees
+312,2022.0,MI,FT,Data Scientist,39263.0,0.0,Data Scientist,76.0,103.0,3.4,"Indiana University Health
+3.5",10000+ Employees
+313,2022.0,MI,FT,Data Engineer,78526.0,0.0,Data Scientist,83.0,123.0,3.9,"eimagine
+3.9",1 to 50 Employees
+314,2022.0,MI,FT,Data Engineer,52351.0,0.0,,,,,,
+315,2022.0,SE,FT,Data Scientist,165220.0,100.0,,,,,,
+316,2022.0,EN,FT,Data Engineer,45807.0,100.0,"Data Scientist 2 - Cross Function, Machine Learning & Analytical Data Products - Hybrid - Seattle or Los Angeles",130.0,202.0,3.7,"Nordstrom Inc
+3.7",10000+ Employees
+317,2022.0,SE,FT,Data Scientist,120160.0,100.0,Data Engineer,80.0,113.0,4.2,"MST Solutions
+4.2",201 to 500 Employees
+318,2022.0,SE,FT,Data Analyst,90320.0,100.0,,,,,,
+319,2022.0,SE,FT,Data Engineer,181940.0,0.0,Data Scientist,118.0,214.0,3.8,"Leidos
+3.8",10000+ Employees
+320,2022.0,SE,FT,Data Engineer,132320.0,0.0,,,,,,
+321,2022.0,SE,FT,Data Engineer,220110.0,0.0,Data Scientist - SQL / SAS & Tableau,98.0,136.0,3.4,"AmeriHealth Caritas
+3.4",5001 to 10000 Employees
+322,2022.0,SE,FT,Data Engineer,160080.0,0.0,Data Scientist,106.0,130.0,2.9,"Evolve Vacation Rentals
+2.9",201 to 500 Employees
+323,2022.0,SE,FT,Data Scientist,180000.0,0.0,Innovation - Data Scientist,61.0,110.0,4.0,"RSM US LLP
+4.0",10000+ Employees
+324,2022.0,SE,FT,Data Scientist,120000.0,0.0,Senior Data Scientist,141.0,185.0,4.0,"PG&E Corporation
+4.0",10000+ Employees
+325,2022.0,SE,FT,Data Analyst,124190.0,100.0,"Principal Data Scientist, Shopbop",,,3.7,"Bop LLC
+3.7",10000+ Employees
+326,2022.0,EX,FT,Data Analyst,130000.0,100.0,Data Scientist - Python - AI/ML,123.0,209.0,3.9,"BAE Systems
+4.0",10000+ Employees
+327,2022.0,EX,FT,Data Analyst,110000.0,100.0,College Graduate - Physics (BS/MS),82.0,123.0,4.1,"INTEL
+4.1",10000+ Employees
+328,2022.0,SE,FT,Data Analyst,170000.0,100.0,,,,,,
+329,2022.0,MI,FT,Data Analyst,115500.0,100.0,Principal Data Scientist,250.0,330.0,3.8,"Freshworks
+3.8",5001 to 10000 Employees
+330,2022.0,SE,FT,Data Analyst,112900.0,100.0,,,,,,
+331,2022.0,SE,FT,Data Analyst,90320.0,100.0,,,,,,
+332,2022.0,SE,FT,Data Analyst,112900.0,100.0,iO Data Scientist,81.0,129.0,3.6,"Ochsner Health System
+3.6",10000+ Employees
+333,2022.0,SE,FT,Data Analyst,90320.0,100.0,Data Scientist,83.0,123.0,4.0,"LinQuest Corporation
+4.0",1001 to 5000 Employees
+334,2022.0,SE,FT,Data Engineer,165400.0,100.0,"Principal Data Scientist, Applied AI",250.0,275.0,3.9,"Movable Ink
+3.9",501 to 1000 Employees
+335,2022.0,SE,FT,Data Engineer,132320.0,100.0,Data Engineer - AI/ML,,,3.9,"Stanford Health Care
+3.9",10000+ Employees
+336,2022.0,MI,FT,Data Analyst,167000.0,100.0,Data Scientist,116.0,184.0,3.6,"US Internal Revenue Service
+3.6",Unknown
+337,2022.0,SE,FT,Data Engineer,243900.0,100.0,Staff Data Scientist - Deep Learning,139.0,209.0,4.3,"GE Healthcare
+4.3",10000+ Employees
+338,2022.0,SE,FT,Data Analyst,136600.0,100.0,Staff Data Scientist - Search,183.0,251.0,4.7,"Faire
+4.6",1001 to 5000 Employees
+339,2022.0,SE,FT,Data Analyst,109280.0,100.0,Data Scientist,90.0,124.0,3.8,"Americo
+3.8",501 to 1000 Employees
+340,2022.0,SE,FT,Data Engineer,128875.0,100.0,Sr Data Eng,109.0,163.0,3.9,"Bayer
+3.9",10000+ Employees
+341,2022.0,SE,FT,Data Engineer,93700.0,100.0,"Data Scientist, New Product Introduction",119.0,169.0,3.6,"Tesla
+3.6",10000+ Employees
+342,2022.0,EX,FT,Head of Data Science,224000.0,100.0,,,,,,
+343,2022.0,EX,FT,Head of Data Science,167875.0,100.0,Data Scientist,82.0,121.0,3.4,"Podium
+3.4",201 to 500 Employees
+344,2022.0,EX,FT,Analytics Engineer,175000.0,100.0,,,,,,
+345,2022.0,SE,FT,Data Engineer,156600.0,100.0,,,,,,
+346,2022.0,SE,FT,Data Engineer,108800.0,0.0,Data Scientist II/III,78.0,140.0,3.8,"National Renewable Energy Laboratory
+3.8",1001 to 5000 Employees
+347,2022.0,SE,FT,Data Scientist,95550.0,0.0,Clinical Data Scientist,109.0,149.0,3.9,"Otsuka
+3.9",1001 to 5000 Employees
+348,2022.0,SE,FT,Data Engineer,113000.0,0.0,,,,,,
+349,2022.0,SE,FT,Data Analyst,135000.0,100.0,,,,,,
+350,2022.0,SE,FT,Data Science Manager,161342.0,100.0,,,,,,
+351,2022.0,SE,FT,Data Science Manager,137141.0,100.0,"Sr Data Scientist, Risk Data Mining",176.0,329.0,3.5,"TikTok
+3.5",1001 to 5000 Employees
+352,2022.0,SE,FT,Data Scientist,167000.0,100.0,,,,,,
+353,2022.0,SE,FT,Data Scientist,123000.0,100.0,Senior Data Scientist - Analytics,123.0,195.0,3.7,"AppLovin
+3.7",1001 to 5000 Employees
+354,2022.0,SE,FT,Data Engineer,78526.0,0.0,Data Scientist,97.0,198.0,4.0,"Keystone Strategy
+4.0",51 to 200 Employees
+355,2022.0,SE,FT,Data Engineer,65438.0,0.0,Senior Data Scientist,119.0,187.0,4.2,"Merck Sharp & Dohme
+4.2",10000+ Employees
+356,2022.0,SE,FT,Data Scientist,150000.0,0.0,"Data Scientist, AI Expertise",115.0,155.0,3.7,"Sephora
+3.7",10000+ Employees
+357,2022.0,SE,FT,Data Scientist,211500.0,100.0,Lead Data Scientist - Engagement & Customer Experience Analytics - Corporate Investment Banking,143.0,210.0,4.0,"JPMorgan Chase & Co
+4.0",10000+ Employees
+358,2022.0,SE,FT,Data Architect,192400.0,100.0,,,,,,
+359,2022.0,SE,FT,Data Architect,90700.0,100.0,"Senior Data Scientist, Sponsored Products",,,3.7,"Amazon.com Services LLC
+3.7",10000+ Employees
+360,2022.0,SE,FT,Data Analyst,130000.0,100.0,,,,,,
+361,2022.0,SE,FT,Data Analyst,61300.0,100.0,,,,,,
+362,2022.0,SE,FT,Data Analyst,130000.0,100.0,Principal Data Scientist,129.0,169.0,4.1,"Visa
+4.1",10000+ Employees
+363,2022.0,SE,FT,Data Analyst,61300.0,100.0,"Staff Data Scientist - Algorithms, Guest Science",185.0,245.0,4.4,"Airbnb
+4.4",5001 to 10000 Employees
+364,2022.0,SE,FT,Data Engineer,160000.0,0.0,Data Scientist,99.0,135.0,3.9,"ABBVIE
+3.9",10000+ Employees
+365,2022.0,SE,FT,Data Scientist,138600.0,100.0,Senior Data Scientist ML Engineer,160.0,220.0,4.1,"Salesforce
+4.1",10000+ Employees
+366,2022.0,SE,FT,Data Engineer,136000.0,0.0,Data Scientist - Generative AI,84.0,127.0,4.2,"HP
+4.2",10000+ Employees
+367,2022.0,MI,FT,Data Analyst,58000.0,0.0,Lead Data Science Analyst (multiple openings) - IHM,104.0,140.0,3.8,"Discover Financial Services
+3.8",10000+ Employees
+368,2022.0,EX,FT,Analytics Engineer,135000.0,100.0,,,,,,
+369,2022.0,SE,FT,Data Scientist,170000.0,100.0,,,,,,
+370,2022.0,SE,FT,Data Scientist,123000.0,100.0,,,,,,
+371,2022.0,SE,FT,Machine Learning Engineer,189650.0,0.0,,,,,,
+372,2022.0,SE,FT,Machine Learning Engineer,164996.0,0.0,"Data Scientist, EDA",112.0,161.0,3.0,"Azurity Pharmaceuticals
+3.0",201 to 500 Employees
+373,2022.0,MI,FT,ETL Developer,54957.0,0.0,Staff Data Scientist-Generative AI and NLP,143.0,251.0,4.4,"ServiceNow
+4.4",10000+ Employees
+374,2022.0,MI,FT,ETL Developer,54957.0,0.0,Distinguished Data Scientist,250.0,300.0,4.3,"Torc Robotics
+4.3",501 to 1000 Employees
+375,2022.0,EX,FT,Lead Data Engineer,118187.0,100.0,Lead Data Scientist - TikTok User Growth,201.0,395.0,3.5,"TikTok
+3.5",1001 to 5000 Employees
+376,2022.0,SE,FT,Data Analyst,132000.0,0.0,,,,,,
+377,2022.0,SE,FT,Data Engineer,165400.0,100.0,Data Scientist-II- Global Services,92.0,138.0,4.0,"f5
+4.0",5001 to 10000 Employees
+378,2022.0,SE,FT,Data Architect,208775.0,100.0,Data Scientist II,85.0,118.0,3.6,"Lincoln Financial
+3.6",10000+ Employees
+379,2022.0,SE,FT,Data Architect,147800.0,100.0,Senior Data Scientist | Product,170.0,200.0,4.2,"Ramp Financial
+4.3",201 to 500 Employees
+380,2022.0,SE,FT,Data Engineer,136994.0,100.0,,,,,,
+381,2022.0,SE,FT,Data Engineer,101570.0,100.0,Data Scientist I,92.0,121.0,2.9,"CSX
+2.9",10000+ Employees
+382,2022.0,SE,FT,Data Analyst,128875.0,100.0,Data Instrument Engineer,99.0,137.0,4.0,"Deloitte
+4.0",10000+ Employees
+383,2022.0,SE,FT,Data Analyst,93700.0,100.0,,,,,,
+384,2022.0,EX,FT,Head of Machine Learning,79039.0,50.0,,,,,,
+385,2022.0,SE,FT,Data Engineer,132320.0,100.0,Data Scientist III (hybrid/remote),80.0,122.0,3.8,"Grange Insurance Company
+3.8",501 to 1000 Employees
+386,2022.0,EN,FT,Machine Learning Engineer,37300.0,100.0,Senior Data Scientist,151.0,194.0,4.5,"Intuit
+4.5",10000+ Employees
+387,2022.0,SE,FT,Data Analyst,164000.0,0.0,,,,,,
+388,2022.0,SE,FT,Data Engineer,155000.0,100.0,,,,,,
+389,2022.0,MI,FT,Machine Learning Engineer,124333.0,0.0,,,,,,
+390,2022.0,MI,FT,Machine Learning Engineer,98158.0,0.0,,,,,,
+391,2022.0,MI,FT,AI Scientist,120000.0,0.0,,,,,,
+392,2022.0,SE,FT,Data Analyst,112900.0,100.0,Senior Data Scientist,143.0,195.0,3.8,"First American Financial Corporation
+3.8",10000+ Employees
+393,2022.0,SE,FT,Data Analyst,90320.0,100.0,,,,,,
+394,2022.0,SE,FT,Data Analytics Manager,145000.0,100.0,"Senior Data Scientist, Machine Learning",179.0,218.0,4.5,"Rec Room
+4.5",51 to 200 Employees
+395,2022.0,SE,FT,Data Analytics Manager,105400.0,100.0,Senior Data Scientist,143.0,203.0,4.0,"QSC, LLC
+4.0",501 to 1000 Employees
+396,2022.0,MI,FT,Machine Learning Engineer,87932.0,100.0,Senior Data Scientist,120.0,160.0,4.0,"Caterpillar
+4.0",10000+ Employees
+397,2022.0,MI,FT,Data Engineer,117789.0,0.0,Senior Data Scientist,118.0,217.0,4.0,"Tencent
+4.0",10000+ Employees
+398,2022.0,SE,FT,Data Scientist,215300.0,100.0,Senior Data Scientist,183.0,192.0,4.4,"SAP
+4.4",10000+ Employees
+399,2022.0,SE,FT,Data Scientist,158200.0,100.0,,,,,,
+400,2022.0,SE,FT,Data Engineer,209100.0,100.0,,,,,,
+401,2022.0,SE,FT,Data Engineer,154600.0,100.0,Data Scientist (Multiple Levels),86.0,119.0,5.0,"Red Alpha LLC
+5.0",51 to 200 Employees
+402,2022.0,SE,FT,Data Analyst,115934.0,0.0,"Senior Data Scientist, Operations",,,4.4,"Coalition
+4.5",201 to 500 Employees
+403,2022.0,SE,FT,Data Analyst,81666.0,0.0,,,,,,
+404,2022.0,SE,FT,Data Engineer,175000.0,100.0,Senior Data Scientist,145.0,185.0,3.8,"Endpoint Closing
+3.7",201 to 500 Employees
+405,2022.0,MI,FT,Data Engineer,98158.0,0.0,Data Scientist - Senior,100.0,136.0,5.0,The Swift Group,201 to 500 Employees
+406,2022.0,MI,FT,Data Analyst,58000.0,0.0,"Senior Data Scientist, Experimentation",97.0,234.0,4.0,"PayPal
+4.0",10000+ Employees
+407,2022.0,SE,FT,Data Engineer,183600.0,100.0,Senior Data Scientist,122.0,150.0,3.5,"Imprivata
+3.5",501 to 1000 Employees
+408,2022.0,MI,FT,Data Analyst,52351.0,100.0,"Senior Data Scientist, Growth",197.0,244.0,4.4,"Grammarly, Inc.
+4.4",501 to 1000 Employees
+409,2022.0,SE,FT,Data Scientist,180000.0,100.0,,,,,,
+410,2022.0,MI,FT,Data Scientist,71982.0,0.0,Senior Principal Data Scientist,138.0,186.0,3.9,"Bristol Myers Squibb
+3.9",10000+ Employees
+411,2022.0,MI,FT,Data Scientist,45807.0,0.0,Data Scientist,77.0,129.0,4.3,"ManTech International Corporation
+4.3",5001 to 10000 Employees
+412,2022.0,MI,FT,Data Engineer,65949.0,100.0,Data Scientist/Senior Data Scientist,119.0,157.0,3.9,"Federal Reserve Bank of Minneapolis
+3.9",1001 to 5000 Employees
+413,2022.0,MI,FT,Data Engineer,49461.0,100.0,Staff Data Scientist,157.0,199.0,4.5,"Intuit
+4.5",10000+ Employees
+414,2022.0,MI,FT,Data Engineer,78526.0,100.0,Specialist Solutions Architect - Machine Learning (Public Sector),159.0,281.0,4.5,"Databricks
+4.5",1001 to 5000 Employees
+415,2022.0,MI,FT,Data Engineer,58894.0,100.0,Senior Data Scientist (Remote),122.0,171.0,4.4,"Quora
+4.4",201 to 500 Employees
+416,2022.0,SE,FT,Data Scientist,260000.0,100.0,Senior Data Scientist I,96.0,132.0,4.0,"RELX
+4.0",10000+ Employees
+417,2022.0,SE,FT,Data Science Engineer,60000.0,100.0,"Data Scientist(RNAseq,Genomics,Omnics,Machine Learning,data analysis)",,,3.7,"Tellus Solutions
+3.7",51 to 200 Employees
+418,2022.0,MI,FT,Data Engineer,63900.0,0.0,,,,,,
+419,2022.0,MI,FT,Machine Learning Scientist,160000.0,100.0,,,,,,
+420,2022.0,MI,FT,Machine Learning Scientist,112300.0,100.0,Data Scientist,106.0,130.0,2.9,"Evolve
+2.9",201 to 500 Employees
+421,2022.0,MI,FT,Data Science Manager,241000.0,100.0,Senior Data Scientist,130.0,234.0,3.9,"Moveworks.ai
+3.9",501 to 1000 Employees
+422,2022.0,MI,FT,Data Science Manager,159000.0,100.0,,,,,,
+423,2022.0,SE,FT,Data Scientist,180000.0,0.0,Data Scientist II,97.0,127.0,3.8,"Comcast
+3.8",10000+ Employees
+424,2022.0,SE,FT,Data Scientist,80000.0,0.0,,,,,,
+425,2022.0,MI,FT,Data Engineer,82900.0,0.0,"Data Analyst, Senior",118.0,160.0,4.0,"PG&E Corporation
+4.0",10000+ Employees
+426,2022.0,SE,FT,Data Engineer,100800.0,100.0,Senior Data Scientist,151.0,200.0,4.2,"Genentech
+4.2",10000+ Employees
+427,2022.0,MI,FT,Data Engineer,49461.0,100.0,"Senior Data Scientist, Causal Inference - Marketing Technology (6 - 12 Month Contract)",,,4.4,"Airbnb
+4.4",5001 to 10000 Employees
+428,2022.0,SE,FT,Data Scientist,140400.0,0.0,Data Software Engineer,125.0,164.0,4.0,"MASS MUTUAL FINANCIAL GROUP
+4.0",5001 to 10000 Employees
+429,2022.0,MI,FT,Data Analyst,39263.0,100.0,,,,,,
+430,2022.0,MI,FT,Data Analyst,43966.0,100.0,Data Scientist - Hybrid Opportunity,85.0,120.0,4.1,"Mediacom Communications Corporation
+4.0",1001 to 5000 Employees
+431,2022.0,MI,FT,Data Analyst,32974.0,100.0,Data Scientist,84.0,124.0,3.3,"Hilabs
+3.7",51 to 200 Employees
+432,2022.0,MI,FT,Data Engineer,87932.0,100.0,Senior/Principal Data Scientist,169.0,203.0,4.1,"CALICO
+4.1",201 to 500 Employees
+433,2022.0,MI,FT,Data Engineer,76940.0,100.0,,,,,,
+434,2022.0,MI,FT,Data Engineer,104702.0,100.0,,,,,,
+435,2022.0,MI,FT,Data Engineer,91614.0,100.0,Data Scientist (Hybrid),,,3.9,"City of Hope
+3.9",10000+ Employees
+436,2022.0,MI,FT,Data Engineer,65949.0,100.0,,,,,,
+437,2022.0,MI,FT,Data Engineer,87932.0,100.0,Senior Data Scientist,107.0,199.0,3.8,"Verizon
+3.8",10000+ Employees
+438,2022.0,SE,FT,Machine Learning Engineer,189650.0,0.0,Senior Data Scientist - Discovery Experiences,295.0,359.0,4.2,"Roblox
+4.1",1001 to 5000 Employees
+439,2022.0,SE,FT,Machine Learning Engineer,164996.0,0.0,GEN AI data scientist / Architect ( Onsite),88.0,133.0,3.8,"Cognizant Technology Solutions
+3.8",10000+ Employees
+440,2022.0,MI,FT,Data Analyst,43966.0,100.0,Data Scientist,96.0,129.0,4.4,"BrainTrust
+4.4",51 to 200 Employees
+441,2022.0,MI,FT,Data Analyst,32974.0,100.0,Senior Data Scientist,145.0,190.0,3.4,"AKASA
+3.4",1 to 50 Employees
+442,2022.0,MI,FT,Data Engineer,98158.0,100.0,Data Scientist Co-Op,99.0,136.0,4.0,"Motorola Solutions
+4.0",10000+ Employees
+443,2022.0,MI,FT,Data Engineer,78526.0,100.0,Bec Dx Jr Data Scientist,96.0,134.0,3.6,"Beckman Coulter Diagnostics
+3.6",10000+ Employees
+444,2022.0,SE,FT,Data Scientist,215300.0,0.0,,,,,,
+445,2022.0,MI,FT,Data Engineer,76940.0,100.0,,,,,,
+446,2022.0,SE,FT,Data Engineer,209100.0,100.0,,,,,,
+447,2022.0,SE,FT,Data Engineer,154600.0,100.0,,,,,,
+448,2022.0,SE,FT,Data Engineer,180000.0,100.0,,,,,,
+449,2022.0,EN,FT,ML Engineer,21983.0,100.0,Data Scientist Engineering Modeler,115.0,167.0,3.7,"Capgemini
+3.7",10000+ Employees
+450,2022.0,SE,FT,Data Engineer,80000.0,100.0,,,,,,
+451,2022.0,MI,FT,Machine Learning Developer,78791.0,100.0,,,,,,
+452,2022.0,EX,FT,Director of Data Science,196979.0,50.0,,,,,,
+453,2022.0,MI,FT,Machine Learning Engineer,120000.0,100.0,Data Scientist,85.0,116.0,4.0,"Deloitte
+4.0",10000+ Employees
+454,2022.0,EN,FT,Computer Vision Engineer,125000.0,0.0,,,,,,
+455,2022.0,MI,FT,NLP Engineer,37236.0,50.0,,,,,,
+456,2022.0,SE,FT,Data Engineer,105000.0,100.0,Data Scientist Trainee,75.0,113.0,3.5,"J80 CINTRA US SERVICES LLC
+3.5",10000+ Employees
+457,2022.0,SE,FT,Lead Machine Learning Engineer,87932.0,0.0,"Director, Data Scientist - Biopharma",145.0,242.0,4.1,"Pfizer
+4.1",10000+ Employees
+458,2022.0,MI,FT,Business Data Analyst,18442.0,100.0,,,,,,
+459,2022.0,MI,FT,Data Scientist,31615.0,100.0,Data Scientist,125.0,175.0,3.4,"HawkEye360
+3.4",51 to 200 Employees
+460,2022.0,MI,FT,Machine Learning Infrastructure Engineer,58255.0,50.0,Senior Data Scientist,107.0,154.0,3.9,"CGI Group, Inc.
+3.9",10000+ Employees
+461,2022.0,EN,FT,Financial Data Analyst,100000.0,50.0,,,,,,
+462,2022.0,MI,PT,Data Engineer,54957.0,50.0,"Senior Data Scientist, Seller Experience",130.0,164.0,4.5,"Etsy
+4.5",1001 to 5000 Employees
+463,2022.0,EN,FT,Data Scientist,18442.0,100.0,"Data Scientist/Senior Data Scientist, Metabolomics",133.0,162.0,4.1,"CALICO
+4.1",201 to 500 Employees
+464,2022.0,SE,FT,Principal Data Scientist,162674.0,100.0,Senior Data Scientist - Growth & Lifecycle,156.0,215.0,4.7,"Faire
+4.6",1001 to 5000 Employees
+465,2022.0,EN,FT,Data Engineer,120000.0,100.0,,,,,,
+466,2022.0,SE,FT,Research Scientist,144000.0,50.0,,,,,,
+467,2022.0,SE,FT,Data Scientist,104890.0,100.0,,,,,,
+468,2022.0,SE,FT,Data Engineer,100000.0,100.0,,,,,,
+469,2022.0,SE,FT,Data Scientist,140000.0,100.0,,,,,,
+470,2022.0,MI,FT,Data Analyst,135000.0,100.0,,,,,,
+471,2022.0,MI,FT,Data Analyst,50000.0,100.0,Senior Data Scientist - NYC,160.0,225.0,3.9,"Rokt
+3.9",201 to 500 Employees
+472,2022.0,SE,FT,Data Scientist,220000.0,100.0,,,,,,
+473,2022.0,SE,FT,Data Scientist,140000.0,100.0,Principal Machine Learning Engineer,133.0,180.0,3.5,"Chewy
+3.5",10000+ Employees
+474,2022.0,MI,FT,Data Scientist,183228.0,0.0,Senior Data Scientist,135.0,210.0,4.3,"Prescient Edge Federal
+4.3",51 to 200 Employees
+475,2022.0,MI,FT,Data Scientist,91614.0,0.0,Sr Data Scientist,136.0,182.0,3.9,"Disney Media & Entertainment Distribution
+3.9",10000+ Employees
+476,2022.0,SE,FT,Data Scientist,185100.0,100.0,,,,,,
+477,2022.0,SE,FT,Machine Learning Engineer,220000.0,100.0,"Data Scientist - Tiktok Ads, Growth Marketing",153.0,296.0,3.5,"TikTok
+3.5",1001 to 5000 Employees
+478,2022.0,MI,FT,Data Scientist,200000.0,100.0,Sr Data Scientist,118.0,217.0,4.0,"Marriott International, Inc
+4.0",10000+ Employees
+479,2022.0,MI,FT,Data Scientist,120000.0,100.0,,,,,,
+480,2022.0,SE,FT,Machine Learning Engineer,120000.0,100.0,,,,,,
+481,2022.0,SE,FT,Machine Learning Engineer,65000.0,100.0,Data Analytics Engineer,85.0,115.0,4.1,"Procter & Gamble
+4.1",10000+ Employees
+482,2022.0,EX,FT,Data Engineer,324000.0,100.0,Data Scientist/Modeler II,96.0,130.0,3.9,"Battelle
+3.9",1001 to 5000 Employees
+483,2022.0,EX,FT,Data Engineer,216000.0,100.0,,,,,,
+484,2022.0,SE,FT,Data Engineer,210000.0,100.0,"Senior Data Scientist, Analytics (Communities)",127.0,173.0,3.1,"Discord
+3.1",501 to 1000 Employees
+485,2022.0,SE,FT,Machine Learning Engineer,120000.0,100.0,,,,,,
+486,2022.0,SE,FT,Data Scientist,230000.0,100.0,,,,,,
+487,2022.0,EN,PT,Data Scientist,100000.0,50.0,Senior Data Scientist,127.0,168.0,4.2,"Nike
+4.2",10000+ Employees
+488,2022.0,MI,FL,Data Scientist,100000.0,100.0,Senior AI/ML Fraud Strategist/ Data Scientist,140.0,261.0,4.4,"Adobe
+4.4",10000+ Employees
+489,2022.0,EN,CT,Applied Machine Learning Scientist,31875.0,100.0,Data Scientist/Architect/Modeler,100.0,120.0,4.1,"ECS Federal
+4.1",201 to 500 Employees
+490,2022.0,SE,FT,Head of Data,200000.0,100.0,,,,,,
+491,2022.0,MI,FT,Principal Data Analyst,75000.0,100.0,"Sr. Manager, Data Scientist - Biopharma",114.0,190.0,4.1,"Pfizer
+4.1",10000+ Employees
+492,2022.0,MI,FT,Data Scientist,35590.0,100.0,"Principal Data Scientist, Delivery Technology",173.0,290.0,2.9,"Gopuff
+3.0",5001 to 10000 Employees
+493,2022.0,SE,FT,Machine Learning Developer,78791.0,100.0,Staff Data Scientist,110.0,138.0,3.5,"Kraft Heinz Company
+3.5",10000+ Employees
+494,2022.0,SE,FT,Data Scientist,100000.0,100.0,Sr Clinical Data Scientist,113.0,152.0,4.0,"IQVIA
+4.0",10000+ Employees
+495,2022.0,MI,FT,Machine Learning Scientist,153000.0,50.0,"Sr. Data Scientist, Reliability Engineering",143.0,194.0,3.6,"Tesla
+3.6",10000+ Employees
+496,2022.0,EN,FT,Data Engineer,58035.0,100.0,Senior Data Scientist,130.0,186.0,4.5,"Changeis
+4.5",51 to 200 Employees
+497,2022.0,SE,FT,Data Scientist,165000.0,100.0,"Senior Data Scientist, AI and Computational Chemistry",89.0,124.0,3.9,"MilliporeSigma
+3.9",10000+ Employees
+498,2022.0,SE,FT,Research Scientist,93427.0,50.0,"Senior Data Scientist, Ads Fraud Protection",134.0,182.0,3.4,"Unity Technologies
+3.4",5001 to 10000 Employees
+499,2022.0,EN,FT,Data Scientist,52396.0,100.0,Senior Data Scientist - Research (Remote),90.0,124.0,3.5,"Mercy
+3.6",10000+ Employees
+500,2022.0,SE,FT,Machine Learning Engineer,62651.0,100.0,Junior Data Scientist,82.0,112.0,4.3,"Prescient Edge Federal
+4.3",51 to 200 Employees
+501,2022.0,MI,FT,Head of Data,32974.0,100.0,,,,,,
+502,2022.0,EN,FT,Data Scientist,40000.0,100.0,,,,,,
+503,2022.0,MI,FT,Machine Learning Engineer,87425.0,100.0,Senior Data Scientist,121.0,158.0,3.7,"Vanguard
+3.7",10000+ Employees
+504,2022.0,SE,FT,Data Engineer,115000.0,100.0,"Senior Data Scientist, Attribution",124.0,178.0,3.7,"Afterpay
+3.7",501 to 1000 Employees
+505,2022.0,EN,FT,Data Scientist,86703.0,50.0,Principal Data Scientist,119.0,156.0,3.7,"Ally Financial
+3.7",10000+ Employees
+506,2022.0,MI,FT,Applied Machine Learning Scientist,75000.0,100.0,Data Scientist,88.0,129.0,3.5,"UFG Insurance
+3.5",1001 to 5000 Employees
+507,2022.0,MI,FT,Research Scientist,64849.0,0.0,,,,,,
+508,2022.0,EN,FT,Research Scientist,120000.0,100.0,(USA) Principal Data Scientist - E2E,103.0,148.0,3.4,"Walmart
+3.4",10000+ Employees
+509,2022.0,MI,FT,Applied Data Scientist,157000.0,100.0,,,,,,
+510,2022.0,EN,FT,Computer Vision Software Engineer,150000.0,100.0,Sr Data Scientist,140.0,180.0,2.9,"Public Storage
+2.9",5001 to 10000 Employees
+511,2022.0,MI,FT,Business Data Analyst,70912.0,50.0,,,,,,
+512,2022.0,EN,FT,Data Engineer,65000.0,100.0,,,,,,
+513,2022.0,SE,FT,Machine Learning Engineer,71444.0,100.0,Data Scientist,90.0,127.0,3.4,"Bamboo Health
+3.4",201 to 500 Employees
+514,2022.0,EN,FT,Data Analytics Engineer,20000.0,0.0,Sr. Data Scientist,97.0,146.0,3.3,"American Honda Motor Co
+3.3",10000+ Employees
+515,2022.0,MI,FT,Data Scientist,48000.0,100.0,"Senior Manager, Data Science",172.0,285.0,3.6,"Foursquare
+3.6",201 to 500 Employees
+516,2022.0,SE,FT,Data Science Manager,152500.0,100.0,Sr. Data Scientist,100.0,150.0,3.0,"MedeAnalytics
+3.0",201 to 500 Employees
+517,2022.0,MI,FT,Data Engineer,68147.0,100.0,,,,,,
+518,2022.0,MI,FT,Data Scientist,122346.0,0.0,Sr. Data Scientist,113.0,154.0,4.2,"Octo
+4.2",1001 to 5000 Employees
+519,2022.0,SE,FT,Applied Data Scientist,380000.0,100.0,Sr Data Scientist,111.0,147.0,4.0,"bioMerieux SA
+4.1",10000+ Employees
+520,2022.0,MI,FT,Data Scientist,69336.0,100.0,Sr Data Scientist,98.0,135.0,3.9,"Maritz Inc.
+3.9",1001 to 5000 Employees
+521,2022.0,EN,FT,Computer Vision Engineer,10000.0,100.0,Senior Product Manager,113.0,155.0,3.5,"Bloomberg BNA
+3.4",1001 to 5000 Employees
+522,2022.0,MI,FT,Data Analyst,20000.0,100.0,,,,,,
+523,2022.0,SE,FT,Data Analytics Lead,405000.0,100.0,Sr Data Scientist,,,2.4,"VIZIO, Inc.
+2.4",501 to 1000 Employees
+524,2022.0,MI,FT,Data Scientist,135000.0,100.0,Supply Chain Consultant - Sr. Data Scientist,87.0,121.0,4.1,"Kimberly-Clark
+4.1",10000+ Employees
+525,2022.0,SE,FT,Applied Data Scientist,177000.0,100.0,Sr. Data Engineer (Remote),105.0,195.0,4.3,"CrowdStrike
+4.3",1001 to 5000 Employees
+526,2022.0,MI,FT,Data Scientist,78000.0,100.0,,,,,,
+527,2022.0,SE,FT,Data Analyst,135000.0,100.0,,,,,,
+528,2022.0,SE,FT,Data Analyst,100000.0,100.0,Data Scientist,96.0,135.0,3.6,"Stellantis
+3.6",10000+ Employees
+529,2022.0,SE,FT,Data Analyst,90320.0,100.0,Sr Data Scientist,128.0,171.0,3.4,"Albertsons Companies
+3.5",10000+ Employees
+530,2022.0,MI,FT,Data Analyst,85000.0,0.0,Data Scientist 5,126.0,270.0,4.0,"Lam Research
+4.0",10000+ Employees
+531,2022.0,MI,FT,Data Analyst,75000.0,0.0,,,,,,
+532,2022.0,SE,FT,Machine Learning Engineer,214000.0,100.0,,,,,,
+533,2022.0,SE,FT,Machine Learning Engineer,192600.0,100.0,,,,,,
+534,2022.0,SE,FT,Data Architect,266400.0,100.0,,,,,,
+535,2022.0,SE,FT,Data Architect,213120.0,100.0,MS Healthcare Data Scientist - Analytics,81.0,112.0,3.3,"University of Maryland Medical System
+3.3",10000+ Employees
+536,2022.0,SE,FT,Data Analyst,112900.0,100.0,Contract - Data Scientist,,,3.6,"Global Healthcare Exchange, Inc.
+3.6",501 to 1000 Employees
+537,2022.0,SE,FT,Data Engineer,155000.0,100.0,Data Scientist,96.0,132.0,4.2,"Archetype
+4.2",51 to 200 Employees
+538,2022.0,MI,FT,Data Scientist,141300.0,0.0,Principal CoE Data Scientist,135.0,183.0,4.1,"GSK
+4.1",10000+ Employees
+539,2022.0,MI,FT,Data Scientist,102100.0,0.0,,,,,,
+540,2022.0,SE,FT,Data Analyst,115934.0,100.0,,,,,,
+541,2022.0,SE,FT,Data Analyst,81666.0,100.0,,,,,,
+542,2022.0,MI,FT,Data Engineer,206699.0,0.0,,,,,,
+543,2022.0,MI,FT,Data Engineer,99100.0,0.0,,,,,,
+544,2022.0,SE,FT,Data Engineer,130000.0,100.0,,,,,,
+545,2022.0,SE,FT,Data Engineer,115000.0,100.0,,,,,,
+546,2022.0,SE,FT,Data Engineer,110500.0,100.0,Data Scientist Postdoc,61.0,92.0,4.1,"Jefferson Lab
+4.1",501 to 1000 Employees
+547,2022.0,SE,FT,Data Engineer,130000.0,100.0,,,,,,
+548,2022.0,SE,FT,Data Analyst,99050.0,100.0,Principal Bioinformatics Scientist (Cancer Biology),150.0,219.0,2.8,"Exelixis, Inc.
+2.9",501 to 1000 Employees
+549,2022.0,SE,FT,Data Engineer,160000.0,100.0,Sr. Data Scientist (Strategic Insights),141.0,188.0,4.0,"PlayStation Global
+4.0",5001 to 10000 Employees
+550,2022.0,SE,FT,Data Scientist,205300.0,0.0,Sr Data Scientist,,,4.1,"University of Phoenix
+4.1",1001 to 5000 Employees
+551,2022.0,SE,FT,Data Scientist,140400.0,0.0,Senior Principal Data Scientist,190.0,351.0,3.5,"Activision
+3.5",1001 to 5000 Employees
+552,2022.0,SE,FT,Data Scientist,176000.0,100.0,,,,,,
+553,2022.0,SE,FT,Data Scientist,144000.0,100.0,Data Scientist,110.0,159.0,3.0,"Standard Biotools
+3.1",501 to 1000 Employees
+554,2022.0,SE,FT,Data Engineer,200100.0,100.0,,,,,,
+555,2022.0,SE,FT,Data Engineer,160000.0,100.0,,,,,,
+556,2022.0,SE,FT,Data Engineer,145000.0,100.0,,,,,,
+557,2022.0,SE,FT,Data Engineer,70500.0,0.0,"Senior Data Scientist, Professional Services",,,3.8,"Amazon Web Services, Inc.
+3.8",Unknown
+558,2022.0,SE,FT,Data Scientist,205300.0,0.0,Senior Data Scientist,,,4.2,"eTeam Inc.
+4.2",5001 to 10000 Employees
+559,2022.0,SE,FT,Data Scientist,140400.0,0.0,Lead Data Scientist - Online Platforms Reinforcement Learning (Remote),120.0,240.0,3.8,"Home Depot / THD
+3.8",10000+ Employees
+560,2022.0,SE,FT,Analytics Engineer,205300.0,0.0,Principal Data Scientist,136.0,155.0,3.9,"CoreLogic
+3.9",5001 to 10000 Employees
+561,2022.0,SE,FT,Analytics Engineer,184700.0,0.0,Senior Data Scientist,119.0,159.0,4.0,"Deloitte
+4.0",10000+ Employees
+562,2022.0,SE,FT,Data Engineer,175100.0,100.0,"Jr. Engineer, Data Scientist",90.0,110.0,3.5,"Advanced Technology and Research Corporation
+3.5",51 to 200 Employees
+563,2022.0,SE,FT,Data Engineer,140250.0,100.0,,,,,,
+564,2022.0,SE,FT,Data Analyst,116150.0,100.0,Data Scientist - Data Analytics,188.0,240.0,3.9,"Costco Wholesale
+3.9",10000+ Employees
+565,2022.0,SE,FT,Data Engineer,54000.0,0.0,"(Senior) Scientist, Clinical Development Data Science",103.0,164.0,4.2,"Genmab
+4.2",1001 to 5000 Employees
+566,2022.0,SE,FT,Data Analyst,170000.0,100.0,,,,,,
+567,2022.0,MI,FT,Data Analyst,65438.0,0.0,,,,,,
+568,2022.0,SE,FT,Data Analyst,80000.0,100.0,Sr Data Scientist,105.0,148.0,4.2,"Children's Health
+4.2",5001 to 10000 Employees
+569,2022.0,SE,FT,Data Scientist,140000.0,100.0,,,,,,
+570,2022.0,SE,FT,Data Scientist,210000.0,100.0,,,,,,
+571,2022.0,SE,FT,Data Scientist,140000.0,100.0,,,,,,
+572,2022.0,SE,FT,Data Analyst,100000.0,100.0,,,,,,
+573,2022.0,SE,FT,Data Analyst,69000.0,100.0,Clinical Data Scientist,87.0,131.0,4.3,"Iodine Software, LLC
+4.2",51 to 200 Employees
+574,2022.0,SE,FT,Data Scientist,210000.0,100.0,,,,,,
+575,2022.0,SE,FT,Data Scientist,140000.0,100.0,Senior Machine Learning Engineer,179.0,218.0,4.5,"Rec Room
+4.5",51 to 200 Employees
+576,2022.0,SE,FT,Data Scientist,210000.0,100.0,Data Scientist,77.0,124.0,3.5,Zartico,51 to 200 Employees
+577,2022.0,SE,FT,Data Analyst,150075.0,100.0,Senior Data Scientist - Measurement,146.0,194.0,3.6,"LiveRamp
+3.5",1001 to 5000 Employees
+578,2022.0,SE,FT,Data Engineer,100000.0,100.0,,,,,,
+579,2022.0,SE,FT,Data Engineer,25000.0,100.0,,,,,,
+580,2022.0,SE,FT,Data Analyst,126500.0,100.0,,,,,,
+581,2022.0,SE,FT,Data Analyst,106260.0,100.0,,,,,,
+582,2022.0,SE,FT,Data Engineer,220110.0,100.0,,,,,,
+583,2022.0,SE,FT,Data Engineer,160080.0,100.0,Sr Dir & Data Scientist - AI & Underwriting Automation,154.0,254.0,4.1,"The Travelers Companies, Inc.
+4.1",10000+ Employees
+584,2022.0,SE,FT,Data Analyst,105000.0,100.0,,,,,,
+585,2022.0,SE,FT,Data Analyst,110925.0,100.0,Data Scientist,112.0,160.0,4.2,"Northeastern University
+4.2",1001 to 5000 Employees
+586,2022.0,MI,FT,Data Analyst,45807.0,0.0,"Data Scientist I, Bioinformatics",81.0,112.0,3.9,"UT Southwestern
+3.9",10000+ Employees
+587,2022.0,SE,FT,Data Scientist,140000.0,100.0,,,,,,
+588,2022.0,SE,FT,Data Analyst,99000.0,0.0,"Director/TL, Data Science - Biopharma",157.0,262.0,4.1,"Pfizer
+4.1",10000+ Employees
+589,2022.0,SE,FT,Data Analyst,60000.0,100.0,,,,,,
+590,2022.0,SE,FT,Data Architect,192564.0,100.0,"Technical Lead Data Scientist, Creator",310.0,359.0,4.2,"Roblox
+4.1",1001 to 5000 Employees
+591,2022.0,SE,FT,Data Architect,144854.0,100.0,DATA SCIENTIST,8.0,8.0,4.2,"University of Washington
+4.2",10000+ Employees
+592,2022.0,SE,FT,Data Scientist,230000.0,100.0,,,,,,
+593,2022.0,SE,FT,Data Scientist,150000.0,100.0,,,,,,
+594,2022.0,SE,FT,Data Analytics Manager,150260.0,100.0,Lead Data Scientist,157.0,192.0,3.9,"Blue Cross Blue Shield of Massachusetts
+3.8",1001 to 5000 Employees
+595,2022.0,SE,FT,Data Analytics Manager,109280.0,100.0,Data Scientist II- Outcomes,95.0,142.0,4.1,"Gillette Children's
+4.1",1001 to 5000 Employees
+596,2022.0,SE,FT,Data Scientist,210000.0,100.0,,,,,,
+597,2022.0,SE,FT,Data Analyst,170000.0,100.0,,,,,,
+598,2022.0,MI,FT,Data Scientist,160000.0,100.0,,,,,,
+599,2022.0,MI,FT,Data Scientist,130000.0,100.0,,,,,,
+600,2022.0,EN,FT,Data Analyst,67000.0,0.0,,,,,,
+601,2022.0,EN,FT,Data Analyst,52000.0,0.0,,,,,,
+602,2022.0,SE,FT,Data Engineer,154000.0,100.0,Machine Learning Data Scientist - Growth Algorithms,211.0,262.0,3.3,"Stitch Fix
+3.3",10000+ Employees
+603,2022.0,SE,FT,Data Engineer,126000.0,100.0,,,,,,
+604,2022.0,SE,FT,Data Analyst,129000.0,0.0,Data Scientist,110.0,158.0,5.0,"BICP
+5.0",1 to 50 Employees
+605,2022.0,SE,FT,Data Analyst,150000.0,100.0,Principal Data Scientist,,,2.8,"Health Advocate
+2.8",1001 to 5000 Employees
+606,2022.0,MI,FT,AI Scientist,200000.0,100.0,,,,,,
+607,,,,,,,Sr. Geospatial Data Scientist,110.0,170.0,4.4,"Government Tactical Solutions
+4.4",51 to 200 Employees
+608,,,,,,,Data Scientist,,,4.1,"Intelliswift Software, Inc.
+4.1",1001 to 5000 Employees
+610,,,,,,,Data Scientist,81.0,126.0,3.4,"People, Technology & Processes
+3.4",51 to 200 Employees
+611,,,,,,,Data Scientist - Associate - Secret Clearance!,38.0,58.0,4.1,"AMERICAN SYSTEMS
+4.2",1001 to 5000 Employees
+612,,,,,,,Principal Data Scientist,112.0,146.0,4.3,"The Infosoft Group
+4.3",51 to 200 Employees
+614,,,,,,,Junior Data Scientist,88.0,129.0,4.3,"Logistics Management Institute
+4.2",1001 to 5000 Employees
+615,,,,,,,Data Scientist,83.0,111.0,3.1,"Camping World
+3.1",10000+ Employees
+617,,,,,,,Jr. ORSA / Data Scientist,112.0,179.0,3.6,"Peraton
+3.6",10000+ Employees
+620,,,,,,,Associate Data Scientist,,,3.2,"UPMC
+3.2",10000+ Employees
+621,,,,,,,Data Architect / Data Scientist,99.0,133.0,4.1,"Mary Kay Inc
+4.1",1001 to 5000 Employees
+623,,,,,,,Data Scientist,101.0,136.0,4.3,"Cognitio
+4.3",1 to 50 Employees
+625,,,,,,,"Data Scientist 2, Menlo Park, CA # 3192",113.0,161.0,3.5,"GRAIL
+3.6",1001 to 5000 Employees
+627,,,,,,,Lead Data Scientist,,,3.4,"Ascension
+3.4",10000+ Employees
+628,,,,,,,Data Scientist Consultant,82.0,123.0,4.5,"Dutech Systems
+4.5",51 to 200 Employees
+629,,,,,,,Staff Data Scientist,124.0,167.0,3.2,"Michaels Stores, Inc.
+3.2",10000+ Employees
+632,,,,,,,Data Scientist,,,3.4,"Ascension
+3.4",10000+ Employees
+634,,,,,,,Data Scientist III,109.0,143.0,4.9,"BTS Software Solutions
+4.9",51 to 200 Employees
+635,,,,,,,Data Scientist,80.0,116.0,3.2,"Sandhills Global, Inc.
+3.2",1001 to 5000 Employees
+636,,,,,,,Data Scientist II,104.0,142.0,3.3,"Horizon Blue Cross Blue Shield of New Jersey
+3.3",5001 to 10000 Employees
+637,,,,,,,Staff Software Engineer | Machine Learning,144.0,216.0,3.4,"Walmart
+3.4",10000+ Employees
+638,,,,,,,Principal Data Scientist,115.0,157.0,3.8,"Verizon
+3.8",10000+ Employees
+639,,,,,,,"Data Scientist - Tiktok Ads, Growth Marketing",153.0,296.0,3.9,"ByteDance
+3.9",10000+ Employees
+640,,,,,,,Senior Data Scientist - Applied AI,70.0,125.0,4.4,"Zynga
+4.4",1001 to 5000 Employees
+641,,,,,,,Data Engineer Analyst,74.0,100.0,3.8,"Air Liquide
+3.8",10000+ Employees
+642,,,,,,,Senior Data Scientist,124.0,169.0,3.6,"Realtor.com Careers
+3.7",1001 to 5000 Employees
+643,,,,,,,Data Engineer/Data Scientist,92.0,124.0,3.7,"Ampcus Incorporated
+3.9",501 to 1000 Employees
+644,,,,,,,Senior Health Data Scientist,92.0,124.0,3.7,"Connecticut Children's Medical Center
+3.7",1001 to 5000 Employees
+646,,,,,,,"Sr. Data Scientist, Pricing Algorithms - Remote within 100 miles of Office Location",74.0,115.0,3.8,"CarMax
+3.8",10000+ Employees
+647,,,,,,,Data Scientist,90.0,129.0,4.0,"EVRY India
+4.0",1001 to 5000 Employees
+648,,,,,,,"Data Scientist (Faculty Assistant, Post-Doctoral Associate, or Assistant Research Scholar",58.0,89.0,4.2,"University of Maryland
+4.2",10000+ Employees
+649,,,,,,,Field Data Scientist (Spanish speaking) - IDS2009,104.0,178.0,4.3,"Mastercard
+4.3",10000+ Employees
+650,,,,,,,"Data Scientist, Senior (DS3)",146.0,234.0,3.6,"Peraton
+3.6",10000+ Employees
+651,,,,,,,Postdoctoral Fellow/Research Associate/Data Scientist in Cancer Epidemiology Research,56.0,81.0,3.8,"University of Maryland, Baltimore
+3.8",5001 to 10000 Employees
+652,,,,,,,"Staff Data Scientist, Cash App Compliance",123.0,179.0,4.3,"Cash App
+4.3",1001 to 5000 Employees
+653,,,,,,,"Data Scientist, Customer Identity & Access Management",99.0,152.0,3.7,"Afterpay
+3.7",501 to 1000 Employees
+654,,,,,,,VIE - Strategic Operations Data Scientist - USA,104.0,153.0,3.8,"Air Liquide
+3.8",10000+ Employees
+655,,,,,,,Behavioral Data Scientist,83.0,129.0,4.5,"Cambridge Mobile Telematics
+4.5",1 to 50 Employees
+656,,,,,,,"Data Scientist, Tiktok Ads-Vertical Solutions",153.0,296.0,3.9,"ByteDance
+3.9",10000+ Employees
+657,,,,,,,College Graduate - Computer Engineering - (Bachelors),88.0,133.0,4.1,"INTEL
+4.1",10000+ Employees
+658,,,,,,,Data Scientist,85.0,117.0,3.9,"DTE Energy
+3.9",10000+ Employees
+659,,,,,,,Marketing Data Scientist,88.0,120.0,4.0,"Brunswick Corporation
+4.0",10000+ Employees
+660,,,,,,,Data Scientist,,,4.0,"Barclays
+4.0",10000+ Employees
+661,,,,,,,Data Scientist,83.0,127.0,3.9,"KBR
+3.9",10000+ Employees
+662,,,,,,,Data Scientist,130.0,140.0,4.8,"Assertive Professionals
+4.8",1 to 50 Employees
+664,,,,,,,"Data Scientist, Data-Driven Marketing",66.0,105.0,4.3,"Mars
+4.3",10000+ Employees
+665,,,,,,,Senior Data Scientist II,153.0,215.0,3.8,"NORC at the University of Chicago
+3.8",1001 to 5000 Employees
+666,,,,,,,Staff Data Scientist,112.0,207.0,3.5,"Activision
+3.5",1001 to 5000 Employees
+667,,,,,,,Machine Learning Engineer,101.0,187.0,3.5,"Activision
+3.5",1001 to 5000 Employees
+668,,,,,,,Principal Data Scientist,109.0,156.0,3.3,"Hilabs
+3.7",51 to 200 Employees
+671,,,,,,,Data Scientist,100.0,140.0,3.2,"Excelacom
+3.2",51 to 200 Employees
+672,,,,,,,"Senior Associate, Data Scientist",,,3.7,"New York Life Insurance Co
+3.7",10000+ Employees
+673,,,,,,,"Data Scientist, NLP",,,3.8,"Evolent Health
+3.8",1001 to 5000 Employees
+674,,,,,,,Data Scientist 4676,94.0,139.0,3.6,"MetroStar
+3.6",201 to 500 Employees
+677,,,,,,,Data Scientist,180.0,200.0,1.0,withco,1 to 50 Employees
+678,,,,,,,DATA SCIENTIST III,116.0,150.0,4.2,"Frost Bank
+4.2",1001 to 5000 Employees
+679,,,,,,,Data Scientist II,113.0,151.0,3.9,"Disney Media & Entertainment Distribution
+3.9",10000+ Employees
+680,,,,,,,Senior Data Scientist,119.0,157.0,3.9,"NielsenIQ
+3.9",10000+ Employees
+681,,,,,,,Supply Chain Data Analytics Specialist,67.0,92.0,4.2,"Johnson & Johnson
+4.2",10000+ Employees
+682,,,,,,,Sr. Data Scientist (Data Stewardship),69.0,109.0,4.8,"Clarity Innovations, LLC
+4.8",1 to 50 Employees
+683,,,,,,,Interconnection Data Scientist,100.0,120.0,3.0,"Qcells
+3.0",501 to 1000 Employees
+684,,,,,,,Senior Data Scientist - Modeling & Optimization,119.0,145.0,2.9,"DISH
+2.9",10000+ Employees
+685,,,,,,,Data Scientist,92.0,130.0,3.7,"Pareto Intelligence
+3.6",51 to 200 Employees
+686,,,,,,,Data Scientist - Augusta Ga,96.0,151.0,3.9,"TaxSlayer
+3.9",201 to 500 Employees
+688,,,,,,,Sr. Data Scientist II,109.0,144.0,3.8,"Arthrex
+3.8",51 to 200 Employees
+689,,,,,,,Data Scientist,81.0,112.0,3.8,"Finastra
+3.8",10000+ Employees
+691,,,,,,,Data Scientist,111.0,160.0,4.5,"Colsh Consultants
+4.5",Unknown
+692,,,,,,,Junior Data Scientist,77.0,118.0,3.8,"BTAS
+3.8",201 to 500 Employees
+693,,,,,,,Data Scientist,70.0,110.0,2.5,"Federal Reserve Bank of St. Louis
+2.5",1001 to 5000 Employees
+698,,,,,,,Data Scientist,140.0,160.0,3.1,"LA Fitness
+3.1",10000+ Employees
+703,,,,,,,Cleared Data Scientist (All Levels),84.0,147.0,4.5,"Noblis
+4.5",1001 to 5000 Employees
+706,,,,,,,Data Scientist,109.0,144.0,4.0,"John Hancock
+4.0",1001 to 5000 Employees
+707,,,,,,,AVP Data Scientist,149.0,238.0,3.9,"Moody's
+3.9",10000+ Employees
+709,,,,,,,Data Scientist,106.0,143.0,4.2,"Applanix
+4.2",51 to 200 Employees
+710,,,,,,,Data Scientist,94.0,130.0,3.9,"GroupM Nexus Xaxis
+3.9",10000+ Employees
+711,,,,,,,Data Analyst Lead - Data Scientist,88.0,122.0,3.7,"Capgemini
+3.7",10000+ Employees
+716,,,,,,,"Lead Data Scientist, Economy",136.0,219.0,4.0,"Electronic Arts
+4.0",10000+ Employees
+717,,,,,,,Staff Data Scientist - Advertising,169.0,272.0,4.4,"Demandbase
+4.3",501 to 1000 Employees
+723,,,,,,,Principal Data Scientist,184.0,260.0,3.4,"Walmart
+3.4",10000+ Employees
+724,,,,,,,Data Scientist/Developer,107.0,157.0,3.7,"Caelum Research Corporation
+3.7",201 to 500 Employees
+725,,,,,,,Data Scientist / Analyst,105.0,125.0,3.1,"Study.com
+3.1",51 to 200 Employees
+726,,,,,,,Sr. Marketing Data Scientist,100.0,136.0,3.6,"SimpliSafe
+3.6",1001 to 5000 Employees
+727,,,,,,,Data Science Analyst,110.0,134.0,4.0,"Honda Center
+4.0",10000+ Employees
+728,,,,,,,Bioninformatic Scientist,44.0,59.0,3.9,"The University of Pittsburgh
+3.9",10000+ Employees
+730,,,,,,,Data Scientist- Marketing,85.0,127.0,3.3,"Sam's Club
+3.3",10000+ Employees
+731,,,,,,,Data Analyst,70.0,104.0,4.2,"Octo
+4.2",1001 to 5000 Employees
+732,,,,,,,Financial Business Analyst,65.0,88.0,3.9,"Echo Global Logistics
+3.9",1001 to 5000 Employees
+733,,,,,,,Quantitative Analytics Tech Lead - Data Scientist (Hybrid - 3 Days in Office),134.0,200.0,3.5,"Freddie Mac
+3.4",5001 to 10000 Employees
+735,,,,,,,"Data Scientist, Data Product",57.0,70.0,4.2,"Syracuse University
+4.2",1001 to 5000 Employees
+737,,,,,,,Senior Data Analyst,75.0,103.0,3.8,"Home Depot / THD
+3.8",10000+ Employees
+738,,,,,,,Sleep Medicine Scientist,77.0,127.0,3.7,"Cleveland Clinic
+3.7",10000+ Employees
+741,,,,,,,IS Data Consultant,95.0,152.0,3.6,"Ochsner Health System
+3.6",10000+ Employees
+743,,,,,,,Staff Data Scientist - Marketing,132.0,193.0,3.6,"Instacart
+3.6",1001 to 5000 Employees
+745,,,,,,,Sr. Data Engineer,163.0,188.0,3.4,"Rivian
+3.4",5001 to 10000 Employees
+746,,,,,,,Data Scientist V Data Science,155.0,201.0,3.9,"Kaiser Permanente
+3.9",10000+ Employees
+747,,,,,,,Senior Data Scientist,101.0,136.0,3.7,"Huntington Bank
+3.7",10000+ Employees
+748,,,,,,,Data Engineer,69.0,99.0,4.4,"Radiance Technologies
+4.5",501 to 1000 Employees
+749,,,,,,,Senior Data Scientist,113.0,159.0,4.2,"Tecolote Research, Inc.
+4.2",501 to 1000 Employees
+753,,,,,,,DigiT Data Software Engineer,52.0,200.0,4.1,"INTEL
+4.1",10000+ Employees
+754,,,,,,,Principal Machine Learning Engineer,156.0,303.0,3.5,"Chewy
+3.5",10000+ Employees
+755,,,,,,,Senior Data Scientist,144.0,200.0,3.4,"Walmart
+3.4",10000+ Employees
+756,,,,,,,General Engineer - Data Scientist/Statistician/Mathematician/Methodologist/Computer Scientist,116.0,151.0,3.7,"US Veterans Health Administration
+3.7",10000+ Employees
+757,,,,,,,Data Instrument Engineer,102.0,143.0,4.0,"Deloitte
+4.0",10000+ Employees
+758,,,,,,,Applied Artificial Intelligence Machine Learning - Sr Associate,145.0,210.0,4.0,"JPMorgan Chase & Co
+4.0",10000+ Employees
+759,,,,,,,Sr. Data Scientist,102.0,138.0,3.9,"DLA Piper
+3.9",5001 to 10000 Employees
+760,,,,,,,Principal Data Scientist,115.0,154.0,4.2,"Abrigo
+4.2",201 to 500 Employees
+763,,,,,,,Sr. Data Scientist,131.0,175.0,3.2,"Lucid Motors
+3.2",5001 to 10000 Employees
+764,,,,,,,Machine Learning Engineer,106.0,152.0,3.0,"Qcells
+3.0",501 to 1000 Employees
+766,,,,,,,DATA SCIENTIST,90.0,142.0,4.7,"ADVANCED MANAGEMENT STRATEGIES GROUP(AMSG)
+4.7",Unknown
+769,,,,,,,Bioinformatics Analyst / Data Scientist,59.0,86.0,3.8,"University of Colorado
+3.8",10000+ Employees
+770,,,,,,,Digital Customer – Machine Learning & Data Lab – Stage,64.0,103.0,4.1,"Wavestone
+4.1",1001 to 5000 Employees
+775,,,,,,,Data Scientist,79.0,109.0,3.1,"Fiserv, Inc.
+3.1",10000+ Employees
+777,,,,,,,"Principal Data Scientist, Professional Services",,,3.8,"Amazon Web Services, Inc.
+3.8",Unknown
+785,,,,,,,Senior Staff Data Scientist,161.0,188.0,4.1,"Udemy
+4.1",501 to 1000 Employees
+786,,,,,,,Sr. Data Scientist - Data Quality,,,3.1,"Early Warning Services
+3.0",501 to 1000 Employees
+789,,,,,,,Data Scientist,78.0,108.0,4.9,"1904labs
+4.9",51 to 200 Employees
+790,,,,,,,"Data Scientist, Data Services - Remote",70.0,106.0,3.6,"Hilton Grand Vacations
+3.6",5001 to 10000 Employees
+791,,,,,,,Data Scientist,79.0,114.0,4.4,"Radiance Technologies
+4.5",501 to 1000 Employees
+794,,,,,,,Senior Data Scientist,132.0,217.0,3.9,"McAfee, LLC
+3.8",1001 to 5000 Employees
+796,,,,,,,Sr. Data Scientist,101.0,135.0,3.8,"Comcast
+3.8",10000+ Employees
+798,,,,,,,Principal Data Scientist,128.0,173.0,3.5,"Block
+3.3",1001 to 5000 Employees
+799,,,,,,,Data Scientist,88.0,124.0,2.7,"NewMarket Services Corporation
+2.7",1001 to 5000 Employees
+803,,,,,,,Data Scientist,100.0,141.0,4.3,"IntelliDyne
+4.3",201 to 500 Employees
+805,,,,,,,Data Scientist/SR Data Scientist,109.0,151.0,4.1,"Boehringer Ingelheim Animal Health USA
+4.1",1001 to 5000 Employees
+806,,,,,,,Data Scientist,84.0,121.0,3.3,"PetSmart
+3.3",10000+ Employees
+811,,,,,,,Senior Data Scientist (Sleep),121.0,176.0,3.5,"WHOOP
+3.5",501 to 1000 Employees
+812,,,,,,,Supply Chain Data Scientist,86.0,117.0,3.6,"TJX Companies
+3.6",10000+ Employees
+814,,,,,,,Data Scientist,88.0,132.0,4.1,"Axiologic Solutions
+4.1",201 to 500 Employees
+815,,,,,,,Data Scientist Sr,101.0,132.0,3.6,"Medline Industries Inc
+3.7",10000+ Employees
+817,,,,,,,Data Scientist,89.0,126.0,3.6,"Nationwide IT Services, Inc
+3.7",201 to 500 Employees
+818,,,,,,,Sr. Data Scientist,,,3.6,"Coupang
+3.6",5001 to 10000 Employees
+819,,,,,,,Principal - Artificial intelligence (AI)& ML- Data Scientist - USC & GC,100.0,120.0,3.3,"Source Mantra
+3.3",1 to 50 Employees
+823,,,,,,,Data Scientist,,,3.5,"Zartico, Inc.",51 to 200 Employees
+824,,,,,,,Data Scientist (Direct Hire),79.0,148.0,4.0,"US Federal Aviation Administration
+4.0",10000+ Employees
+825,,,,,,,Data Scientist,76.0,101.0,4.1,"Arkansas Blue Cross and Blue Shield
+4.1",1001 to 5000 Employees
+826,,,,,,,Senior Data Scientist- Data Strategy,164.0,262.0,4.2,"Siemens Digital Industries Software
+4.2",5001 to 10000 Employees
+827,,,,,,,Data Scientist,84.0,121.0,3.7,"ADM Associates
+3.7",1 to 50 Employees
+828,,,,,,,Data Scientist Senior,100.0,129.0,4.1,"APS
+4.1",1 to 50 Employees
+829,,,,,,,Data Scientist,83.0,123.0,4.4,"Oasis Systems LLC
+4.4",1001 to 5000 Employees
+832,,,,,,,Principal Data Scientist,156.0,209.0,3.2,"Lucid Motors
+3.2",5001 to 10000 Employees
+834,,,,,,,Data Science Mentor,,,4.1,"Chegg
+4.1",1001 to 5000 Employees
+835,,,,,,,Data Scientist (Remote),81.0,129.0,3.9,"Epsilon
+3.9",5001 to 10000 Employees
+837,,,,,,,Computational Physicist/Data Scientist,97.0,150.0,3.8,"Physical Sciences Inc.
+3.8",51 to 200 Employees
+838,,,,,,,Chief Data Scientist,124.0,190.0,2.8,"HR, Legal, & Administration
+2.7",201 to 500 Employees
+840,,,,,,,Senior Data Scientist,122.0,158.0,4.3,"Fidelity Investments
+4.3",10000+ Employees
+841,,,,,,,Multi-modal Representation Learning Scientist,125.0,160.0,4.3,"Novo Nordisk
+4.3",10000+ Employees
+843,,,,,,,Sr. Data Scientist,123.0,164.0,3.8,"WEX Inc.
+3.8",1001 to 5000 Employees
+844,,,,,,,Senior Data Scientist,118.0,152.0,4.5,"Noblis
+4.5",1001 to 5000 Employees
+847,,,,,,,Data Scientist,90.0,123.0,3.8,"Fooda
+3.8",201 to 500 Employees
+850,,,,,,,Short-term trading desk Data Scientist (m/f/t),102.0,142.0,4.3,"RWE
+4.2",10000+ Employees
+851,,,,,,,"Senior Data Scientist, Forecasting",128.0,192.0,3.9,"Hinge Health
+3.9",1001 to 5000 Employees
+853,,,,,,,"Data Engineer, Python",96.0,133.0,2.8,"Breeze Airways™
+2.8",1001 to 5000 Employees
+854,,,,,,,Data Scientist,80.0,122.0,3.0,"Cal-Tex Protective Coatings, Inc.",51 to 200 Employees
+855,,,,,,,Data Scientist I,92.0,122.0,4.1,"Freeport McMoRan
+4.1",10000+ Employees
+856,,,,,,,Lead Data Scientist,145.0,155.0,3.6,"Trajector
+3.6",1001 to 5000 Employees
+858,,,,,,,"Data Scientist, Natural Language Interfaces",112.0,152.0,3.9,"Klaviyo
+3.9",1001 to 5000 Employees
+862,,,,,,,Data Scientist,130.0,190.0,5.0,"EpochGeo
+5.0",1 to 50 Employees
+863,,,,,,,Senior Data Scientist,113.0,148.0,3.4,"QVC
+3.3",10000+ Employees
+864,,,,,,,Sr Data Scientist,99.0,136.0,3.5,"Lowe's
+3.5",1001 to 5000 Employees
+865,,,,,,,Principal Data Scientist,126.0,165.0,3.9,"ABBVIE
+3.9",10000+ Employees
+866,,,,,,,Data Scientist Position,97.0,139.0,4.5,"Princeton University
+4.5",5001 to 10000 Employees
+868,,,,,,,"Senior Data Scientist , Search and Personalization (14498) - United States (Remote)",122.0,204.0,4.4,"Getty Images
+4.4",1001 to 5000 Employees
+869,,,,,,,Research Data Analyst (Scientist),58.0,83.0,3.8,"Medical College of Wisconsin
+3.8",5001 to 10000 Employees
+874,,,,,,,IT Data Scientist I-IV,76.0,107.0,3.9,"Medical Mutual of Ohio
+3.9",1001 to 5000 Employees
+876,,,,,,,Data Scientist,86.0,118.0,3.6,"Hearst Media Services
+3.6",10000+ Employees
+879,,,,,,,Data Scientist 3 DS3 (VV) 1034,67.0,99.0,4.8,"Clarity Innovations, LLC
+4.8",1 to 50 Employees
+883,,,,,,,Senior Data Scientist,90.0,139.0,3.1,"SS&C
+3.1",10000+ Employees
+885,,,,,,,DATA SCIENTIST,75.0,175.0,3.9,"Ignite Fueling Innovation
+3.9",51 to 200 Employees
+887,,,,,,,Data Scientist,85.0,125.0,4.1,"Arcfield
+4.1",1001 to 5000 Employees
+889,,,,,,,Data Scientist Advanced Development Program,85.0,115.0,3.7,"Vanguard
+3.7",10000+ Employees
+890,,,,,,,Database Administrator,82.0,143.0,3.9,"Parsons
+3.9",10000+ Employees
+892,,,,,,,Data Scientist,110.0,151.0,3.0,"Plymouth Rock Assurance
+3.0",1001 to 5000 Employees
+895,,,,,,,Global Technology Transformation Analytics Vice President,128.0,190.0,4.0,"JPMorgan Chase & Co
+4.0",10000+ Employees
+896,,,,,,,Senior Data Scientist,,,4.3,"Cydcor
+4.3",51 to 200 Employees
+897,,,,,,,Remote - Data Scientist,79.0,120.0,3.0,"Green Dot Corporation
+3.1",1001 to 5000 Employees
+899,,,,,,,Data Scientist,94.0,132.0,3.9,"The University of Iowa
+3.9",10000+ Employees
+966,,,,,,,Data Scientist,86.0,118.0,3.6,"Kumo
+5.0",10000+ Employees
+1010,,,,,,,Database Administrator,82.0,143.0,3.7,"Parsons
+3.9",10000+ Employees
